@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13122.16" systemVersion="17A277" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13104.12"/>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -9,16 +13,65 @@
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Blind_Person_Running_App" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Blind Person Running" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="y6o-X3-iki">
+                                <rect key="frame" x="60" y="70" width="256" height="34"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="28"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Status: Not Connected" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yEK-iS-gpY">
+                                <rect key="frame" x="51" y="144" width="274" height="33.5"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="28"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xi4-zj-y89">
+                                <rect key="frame" x="69" y="237.5" width="237" height="42"/>
+                                <accessibility key="accessibilityConfiguration" hint="Double tap to connect to the grid and start a running session." label="Start Running Session"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <state key="normal" title="Start Running Session"/>
+                                <connections>
+                                    <action selector="ConnectPushed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="HzF-Gk-vGm"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" enabled="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LMy-Kz-ihO">
+                                <rect key="frame" x="78" y="329.5" width="219" height="42"/>
+                                <accessibility key="accessibilityConfiguration" hint="There is no current running session to end." label="End Current Session"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <state key="normal" title="End Current Session"/>
+                                <connections>
+                                    <action selector="EndSessionPushed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="4B5-aa-eqk"/>
+                                </connections>
+                            </button>
+                        </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="LMy-Kz-ihO" firstAttribute="top" secondItem="xi4-zj-y89" secondAttribute="bottom" constant="50" id="0Bi-as-RmI"/>
+                            <constraint firstItem="xi4-zj-y89" firstAttribute="top" secondItem="yEK-iS-gpY" secondAttribute="bottom" constant="60" id="7kh-Ba-2RM"/>
+                            <constraint firstItem="LMy-Kz-ihO" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Cp2-tE-mSg"/>
+                            <constraint firstItem="yEK-iS-gpY" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Q9U-6f-sv3"/>
+                            <constraint firstItem="xi4-zj-y89" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Xg3-8W-USw"/>
+                            <constraint firstItem="yEK-iS-gpY" firstAttribute="top" secondItem="y6o-X3-iki" secondAttribute="bottom" constant="40" id="hNL-Gv-06i"/>
+                            <constraint firstItem="y6o-X3-iki" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="50" id="ta9-Ne-EgJ"/>
+                            <constraint firstItem="y6o-X3-iki" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="x0z-ia-SpV"/>
+                        </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
+                    <connections>
+                        <outlet property="ConnectButton" destination="xi4-zj-y89" id="n4h-VQ-Rmv"/>
+                        <outlet property="DisconnectButton" destination="LMy-Kz-ihO" id="8cr-YS-sf5"/>
+                        <outlet property="StatusLabel" destination="yEK-iS-gpY" id="euy-UB-8Bc"/>
+                        <outlet property="TitleLabel" destination="y6o-X3-iki" id="yi1-VB-eVp"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
+            <point key="canvasLocation" x="136.80000000000001" y="133.5832083958021"/>
         </scene>
     </scenes>
 </document>
