@@ -14,6 +14,7 @@
 		3F2617AC2037C362000A9052 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F2617AA2037C362000A9052 /* LaunchScreen.storyboard */; };
 		3F2617B72037C363000A9052 /* Blind_Person_Running_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F2617B62037C363000A9052 /* Blind_Person_Running_AppTests.swift */; };
 		3F2617C22037C363000A9052 /* Blind_Person_Running_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F2617C12037C363000A9052 /* Blind_Person_Running_AppUITests.swift */; };
+		3F26180A203A27CA000A9052 /* NetworkClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F261809203A27CA000A9052 /* NetworkClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		3F2617BD2037C363000A9052 /* Blind Person Running AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Blind Person Running AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F2617C12037C363000A9052 /* Blind_Person_Running_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Blind_Person_Running_AppUITests.swift; sourceTree = "<group>"; };
 		3F2617C32037C363000A9052 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F261809203A27CA000A9052 /* NetworkClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				3F2617A82037C362000A9052 /* Assets.xcassets */,
 				3F2617AA2037C362000A9052 /* LaunchScreen.storyboard */,
 				3F2617AD2037C362000A9052 /* Info.plist */,
+				3F261809203A27CA000A9052 /* NetworkClass.swift */,
 			);
 			path = "Blind Person Running App";
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				3F2617A42037C362000A9052 /* ViewController.swift in Sources */,
 				3F2617A22037C362000A9052 /* AppDelegate.swift in Sources */,
+				3F26180A203A27CA000A9052 /* NetworkClass.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

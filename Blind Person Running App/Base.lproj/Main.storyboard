@@ -48,24 +48,47 @@
                                     <action selector="EndSessionPushed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="4B5-aa-eqk"/>
                                 </connections>
                             </button>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Send a Message" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="HP2-zT-RV7">
+                                <rect key="frame" x="30" y="392" width="315" height="30"/>
+                                <accessibility key="accessibilityConfiguration" hint="For Tom" identifier="The test" label="Text Feild for testing connect"/>
+                                <nil key="textColor"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                            </textField>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EWv-61-yEf">
+                                <rect key="frame" x="70.5" y="452" width="233" height="44"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="26"/>
+                                <state key="normal" title="Send the current text"/>
+                                <connections>
+                                    <action selector="SendTheTextPushed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="2LO-sY-m2X"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="LMy-Kz-ihO" firstAttribute="top" secondItem="xi4-zj-y89" secondAttribute="bottom" constant="50" id="0Bi-as-RmI"/>
+                            <constraint firstItem="EWv-61-yEf" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="18U-rT-7mZ"/>
+                            <constraint firstItem="HP2-zT-RV7" firstAttribute="top" secondItem="LMy-Kz-ihO" secondAttribute="bottom" constant="20" id="1bC-kc-zoE"/>
                             <constraint firstItem="xi4-zj-y89" firstAttribute="top" secondItem="yEK-iS-gpY" secondAttribute="bottom" constant="60" id="7kh-Ba-2RM"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="HP2-zT-RV7" secondAttribute="trailing" constant="30" id="CKX-5b-d7c"/>
                             <constraint firstItem="LMy-Kz-ihO" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Cp2-tE-mSg"/>
+                            <constraint firstItem="HP2-zT-RV7" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Q2L-4H-agS"/>
                             <constraint firstItem="yEK-iS-gpY" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Q9U-6f-sv3"/>
+                            <constraint firstItem="EWv-61-yEf" firstAttribute="top" secondItem="HP2-zT-RV7" secondAttribute="bottom" constant="30" id="RyU-GA-741"/>
                             <constraint firstItem="xi4-zj-y89" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Xg3-8W-USw"/>
                             <constraint firstItem="yEK-iS-gpY" firstAttribute="top" secondItem="y6o-X3-iki" secondAttribute="bottom" constant="40" id="hNL-Gv-06i"/>
                             <constraint firstItem="y6o-X3-iki" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="50" id="ta9-Ne-EgJ"/>
                             <constraint firstItem="y6o-X3-iki" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="x0z-ia-SpV"/>
+                            <constraint firstItem="HP2-zT-RV7" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="30" id="xWI-mW-tzY"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
                         <outlet property="ConnectButton" destination="xi4-zj-y89" id="n4h-VQ-Rmv"/>
                         <outlet property="DisconnectButton" destination="LMy-Kz-ihO" id="8cr-YS-sf5"/>
+                        <outlet property="SendTheTextButton" destination="EWv-61-yEf" id="9v2-Yr-cB9"/>
                         <outlet property="StatusLabel" destination="yEK-iS-gpY" id="euy-UB-8Bc"/>
+                        <outlet property="TextForNetwork" destination="HP2-zT-RV7" id="AOU-89-mZ3"/>
                         <outlet property="TitleLabel" destination="y6o-X3-iki" id="yi1-VB-eVp"/>
                     </connections>
                 </viewController>
