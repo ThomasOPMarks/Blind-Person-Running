@@ -7,8 +7,14 @@
 //
 
 import Foundation
+protocol NetworkBufferDelegate: class {
+    func receivedMessage(message string: String)
+}
+
 
 class NetworkBuffer: NSObject {
+    
+    weak var delegate: NetworkBufferDelegate?
     var inputStream: InputStream!
     var outputStream: OutputStream!
     
@@ -18,7 +24,7 @@ class NetworkBuffer: NSObject {
         var readStream: Unmanaged<CFReadStream>?
         var writeStream: Unmanaged<CFWriteStream>?
         
-        CFStreamCreatePairWithSocketToHost(kCFAllocatorDefault, "10.7.5.137" as CFString, 9876, &readStream, &writeStream)
+        CFStreamCreatePairWithSocketToHost(kCFAllocatorDefault, "10.7.2.238" as CFString, 9876, &readStream, &writeStream)
         inputStream = readStream!.takeRetainedValue()
         outputStream = writeStream!.takeRetainedValue()
         
@@ -28,6 +34,16 @@ class NetworkBuffer: NSObject {
         inputStream.open()
         outputStream.open()
     }
+    
+    func stopChatSession() {
+        inputStream.close()
+        outputStream.close()
+    }
+    
+
+}
+
+extension NetworkBuffer: StreamDelegate{
     func stream(_ aStream: Stream, handle eventCode: Stream.Event) {
         switch eventCode {
         case Stream.Event.hasBytesAvailable:
@@ -36,6 +52,7 @@ class NetworkBuffer: NSObject {
             
         case Stream.Event.endEncountered:
             print("Has new message because end encountered")
+            stopChatSession()
         case Stream.Event.errorOccurred:
             print("Error occured")
         case Stream.Event.hasSpaceAvailable:
@@ -55,31 +72,22 @@ class NetworkBuffer: NSObject {
                     break
                 }
             }
-            if let message = processedMessageString(buffer: buffer, length: numberOfBytesRead){
-                //Notify people
-            }
+            let message = processedMessageString(buffer: buffer, length: numberOfBytesRead)
+            delegate?.receivedMessage(message: message)
         }
         
     }
     
-    private func processedMessageString(buffer: UnsafeMutablePointer<UInt8>, length: Int) ->String?{
+    private func processedMessageString(buffer: UnsafeMutablePointer<UInt8>, length: Int) ->String{
         guard let stringArray = String(bytesNoCopy: buffer, length: length, encoding: .ascii, freeWhenDone: true)
             else{
-                return nil
+                return "Couldn't read"
         }
         return stringArray
         
     }
-
 }
 
-extension NetworkBuffer: StreamDelegate{
-    
-}
-
-protocol ChatRoomDelegate {
-    func receivedMessage(message string: String)
-}
 
 
 

@@ -17,6 +17,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var TextForNetwork: UITextField!
     @IBOutlet weak var SendTheTextButton: UIButton!
     var connection = NetworkBuffer()
+    var MessageBack: String = " "
     override func viewDidLoad() {
         super.viewDidLoad()
     }
@@ -28,23 +29,7 @@ class ViewController: UIViewController {
     override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
         self.view.endEditing(true)
     }
-    /* override func viewDidLoad() {
-     super.viewDidLoad()
-     
-     //Looks for single or multiple taps.
-     let tap: UITapGestureRecognizer = UITapGestureRecognizer(target: self, action: "dismissKeyboard")
-     
-     //Uncomment the line below if you want the tap not not interfere and cancel other interactions.
-     //tap.cancelsTouchesInView = false
-     
-     view.addGestureRecognizer(tap)
-     }
-     
-     //Calls this function when the tap is recognized.
-     func dismissKeyboard() {
-     //Causes the view (or one of its embedded text fields) to resign the first responder status.
-        view.endEditing(true)
-     } */
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
@@ -56,6 +41,7 @@ class ViewController: UIViewController {
         StatusLabel.text = "Status: Connected";
         DisconnectButton.isEnabled = true;
         DisconnectButton.accessibilityHint = "Double tap to end the current running session and disconnect from the grid";
+        connection.delegate = self
         connection.setupNetworkCommunication();
     }
     
@@ -65,16 +51,25 @@ class ViewController: UIViewController {
         StatusLabel.text = "Status: Not Connected";
         DisconnectButton.isEnabled = false;
         DisconnectButton.accessibilityHint = "There is no current running session to end";
+        connection.stopChatSession()
         
     }
     @IBAction func SendTheTextPushed(_ sender: Any) {
         let text = TextForNetwork.text!
-        let sending = "Message: \(text)".data(using: .ascii)!
+        let sending = "\(text)".data(using: .ascii)!
         
         _ = sending.withUnsafeBytes { connection.outputStream.write($0, maxLength: sending.count) }
     }
+    
+    func SendBackText(returnString: String){
+        MessageBack = returnString
+        print(MessageBack)
+    }
 }
 
-protocol <#name#> {
-    <#requirements#>
+extension ViewController: NetworkBufferDelegate{
+    func receivedMessage(message string: String) {
+        SendBackText(returnString: string)
+    }
+
 }
