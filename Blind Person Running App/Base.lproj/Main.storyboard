@@ -14,7 +14,7 @@
         <scene sceneID="tne-QT-ifu">
             <objects>
                 <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Blind_Person_Running_App" customModuleProvider="target" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                    <view key="view" clipsSubviews="YES" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
@@ -31,7 +31,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xi4-zj-y89">
-                                <rect key="frame" x="69" y="237.5" width="237" height="42"/>
+                                <rect key="frame" x="69" y="309.5" width="237" height="42"/>
                                 <accessibility key="accessibilityConfiguration" hint="Double tap to connect to the grid and start a running session." label="Start Running Session"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                 <state key="normal" title="Start Running Session"/>
@@ -40,7 +40,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" enabled="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="LMy-Kz-ihO">
-                                <rect key="frame" x="78" y="329.5" width="219" height="42"/>
+                                <rect key="frame" x="78" y="371.5" width="219" height="42"/>
                                 <accessibility key="accessibilityConfiguration" hint="There is no current running session to end." label="End Current Session"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                 <state key="normal" title="End Current Session"/>
@@ -48,47 +48,94 @@
                                     <action selector="EndSessionPushed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="4B5-aa-eqk"/>
                                 </connections>
                             </button>
-                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Send a Message" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="HP2-zT-RV7">
-                                <rect key="frame" x="30" y="392" width="315" height="30"/>
-                                <accessibility key="accessibilityConfiguration" hint="For Tom" identifier="The test" label="Text Feild for testing connect"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Lane Number: 1" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="4XG-ws-Rwh">
+                                <rect key="frame" x="92.5" y="198" width="190" height="34"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="28"/>
                                 <nil key="textColor"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                <textInputTraits key="textInputTraits"/>
-                            </textField>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EWv-61-yEf">
-                                <rect key="frame" x="70.5" y="452" width="233" height="44"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="26"/>
-                                <state key="normal" title="Send the current text"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VM2-UK-ggt">
+                                <rect key="frame" x="192" y="267" width="47" height="30"/>
+                                <state key="normal" title="Lane 4"/>
                                 <connections>
-                                    <action selector="SendTheTextPushed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="2LO-sY-m2X"/>
+                                    <action selector="Lane4Pushed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="fPj-wg-wks"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="26G-zb-Eab">
+                                <rect key="frame" x="135" y="267" width="47" height="30"/>
+                                <state key="normal" title="Lane 3"/>
+                                <connections>
+                                    <action selector="Lane3Pushed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="M1g-HP-Uln"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2r4-eb-JLB">
+                                <rect key="frame" x="249" y="267" width="47" height="30"/>
+                                <state key="normal" title="Lane 5"/>
+                                <connections>
+                                    <action selector="Lane5Pushed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="pdd-xf-CQv"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="OSO-GQ-kct">
+                                <rect key="frame" x="306" y="267" width="47" height="30"/>
+                                <state key="normal" title="Lane 6"/>
+                                <connections>
+                                    <action selector="Lane6Pushed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="D6y-xO-CzK"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DGr-cb-MLP">
+                                <rect key="frame" x="78" y="267" width="47" height="30"/>
+                                <state key="normal" title="Lane 2"/>
+                                <connections>
+                                    <action selector="Lane2Pushed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="QIp-Ec-ScV"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="AZ6-eK-tOU">
+                                <rect key="frame" x="24" y="267" width="44" height="30"/>
+                                <state key="normal" title="Lane 1"/>
+                                <connections>
+                                    <action selector="Lane1Pushed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Crr-PT-2UN"/>
                                 </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="LMy-Kz-ihO" firstAttribute="top" secondItem="xi4-zj-y89" secondAttribute="bottom" constant="50" id="0Bi-as-RmI"/>
-                            <constraint firstItem="EWv-61-yEf" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="18U-rT-7mZ"/>
-                            <constraint firstItem="HP2-zT-RV7" firstAttribute="top" secondItem="LMy-Kz-ihO" secondAttribute="bottom" constant="20" id="1bC-kc-zoE"/>
-                            <constraint firstItem="xi4-zj-y89" firstAttribute="top" secondItem="yEK-iS-gpY" secondAttribute="bottom" constant="60" id="7kh-Ba-2RM"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="HP2-zT-RV7" secondAttribute="trailing" constant="30" id="CKX-5b-d7c"/>
+                            <constraint firstItem="VM2-UK-ggt" firstAttribute="leading" secondItem="26G-zb-Eab" secondAttribute="trailing" constant="10" id="5S1-qv-df5"/>
+                            <constraint firstItem="26G-zb-Eab" firstAttribute="top" secondItem="4XG-ws-Rwh" secondAttribute="bottom" constant="35" id="Aw6-MK-v7K"/>
                             <constraint firstItem="LMy-Kz-ihO" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Cp2-tE-mSg"/>
-                            <constraint firstItem="HP2-zT-RV7" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Q2L-4H-agS"/>
+                            <constraint firstItem="26G-zb-Eab" firstAttribute="centerY" secondItem="AZ6-eK-tOU" secondAttribute="centerY" id="JmN-lf-mmI"/>
+                            <constraint firstItem="xi4-zj-y89" firstAttribute="top" secondItem="VM2-UK-ggt" secondAttribute="bottom" constant="12.5" id="KiR-Xn-Bl7"/>
+                            <constraint firstItem="2r4-eb-JLB" firstAttribute="leading" secondItem="VM2-UK-ggt" secondAttribute="trailing" constant="10" id="Ls7-r2-YUC"/>
+                            <constraint firstItem="2r4-eb-JLB" firstAttribute="top" secondItem="4XG-ws-Rwh" secondAttribute="bottom" constant="35" id="PlE-Dz-tCH"/>
+                            <constraint firstItem="VM2-UK-ggt" firstAttribute="top" secondItem="4XG-ws-Rwh" secondAttribute="bottom" constant="35" id="Pmu-il-HoT"/>
                             <constraint firstItem="yEK-iS-gpY" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Q9U-6f-sv3"/>
-                            <constraint firstItem="EWv-61-yEf" firstAttribute="top" secondItem="HP2-zT-RV7" secondAttribute="bottom" constant="30" id="RyU-GA-741"/>
+                            <constraint firstItem="OSO-GQ-kct" firstAttribute="leading" secondItem="2r4-eb-JLB" secondAttribute="trailing" constant="10" id="Wln-3r-HWV"/>
                             <constraint firstItem="xi4-zj-y89" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Xg3-8W-USw"/>
+                            <constraint firstItem="LMy-Kz-ihO" firstAttribute="top" secondItem="xi4-zj-y89" secondAttribute="bottom" constant="20" id="Ypt-xt-lli"/>
+                            <constraint firstItem="DGr-cb-MLP" firstAttribute="leading" secondItem="AZ6-eK-tOU" secondAttribute="trailing" constant="10" id="apo-5t-yCT"/>
+                            <constraint firstItem="2r4-eb-JLB" firstAttribute="centerY" secondItem="OSO-GQ-kct" secondAttribute="centerY" id="dDi-Ch-Zyi"/>
+                            <constraint firstItem="xi4-zj-y89" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="f0d-9u-vJM"/>
                             <constraint firstItem="yEK-iS-gpY" firstAttribute="top" secondItem="y6o-X3-iki" secondAttribute="bottom" constant="40" id="hNL-Gv-06i"/>
+                            <constraint firstItem="4XG-ws-Rwh" firstAttribute="top" secondItem="yEK-iS-gpY" secondAttribute="bottom" constant="20" id="jXT-HR-jZt"/>
                             <constraint firstItem="y6o-X3-iki" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="50" id="ta9-Ne-EgJ"/>
+                            <constraint firstItem="26G-zb-Eab" firstAttribute="centerY" secondItem="DGr-cb-MLP" secondAttribute="centerY" id="u8g-Un-pMx"/>
+                            <constraint firstItem="4XG-ws-Rwh" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="vFR-IS-VbA"/>
+                            <constraint firstItem="y6o-X3-iki" firstAttribute="leading" secondItem="AZ6-eK-tOU" secondAttribute="trailing" constant="-8" id="viN-YY-rFM"/>
                             <constraint firstItem="y6o-X3-iki" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="x0z-ia-SpV"/>
-                            <constraint firstItem="HP2-zT-RV7" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="30" id="xWI-mW-tzY"/>
+                            <constraint firstItem="26G-zb-Eab" firstAttribute="leading" secondItem="DGr-cb-MLP" secondAttribute="trailing" constant="10" id="xz5-gt-67w"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
                         <outlet property="ConnectButton" destination="xi4-zj-y89" id="n4h-VQ-Rmv"/>
                         <outlet property="DisconnectButton" destination="LMy-Kz-ihO" id="8cr-YS-sf5"/>
-                        <outlet property="SendTheTextButton" destination="EWv-61-yEf" id="9v2-Yr-cB9"/>
+                        <outlet property="Lane1" destination="AZ6-eK-tOU" id="qZK-rI-xPM"/>
+                        <outlet property="Lane2" destination="DGr-cb-MLP" id="cw5-1j-vYQ"/>
+                        <outlet property="Lane3" destination="26G-zb-Eab" id="Imm-wJ-U9R"/>
+                        <outlet property="Lane4" destination="VM2-UK-ggt" id="j1H-GI-lej"/>
+                        <outlet property="Lane5" destination="2r4-eb-JLB" id="eJp-fS-dFI"/>
+                        <outlet property="Lane6" destination="OSO-GQ-kct" id="02S-yc-242"/>
+                        <outlet property="LaneNumberLabel" destination="4XG-ws-Rwh" id="C24-UX-AUa"/>
                         <outlet property="StatusLabel" destination="yEK-iS-gpY" id="euy-UB-8Bc"/>
-                        <outlet property="TextForNetwork" destination="HP2-zT-RV7" id="AOU-89-mZ3"/>
                         <outlet property="TitleLabel" destination="y6o-X3-iki" id="yi1-VB-eVp"/>
                     </connections>
                 </viewController>

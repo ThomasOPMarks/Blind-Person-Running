@@ -14,8 +14,16 @@ class ViewController: UIViewController {
     @IBOutlet weak var StatusLabel: UILabel!
     @IBOutlet weak var ConnectButton: UIButton!
     @IBOutlet weak var DisconnectButton: UIButton!
-    @IBOutlet weak var TextForNetwork: UITextField!
-    @IBOutlet weak var SendTheTextButton: UIButton!
+    @IBOutlet weak var LaneNumberLabel: UILabel!
+    @IBOutlet weak var Lane1: UIButton!
+    @IBOutlet weak var Lane2: UIButton!
+    @IBOutlet weak var Lane3: UIButton!
+    @IBOutlet weak var Lane4: UIButton!
+    @IBOutlet weak var Lane5: UIButton!
+    @IBOutlet weak var Lane6: UIButton!
+    var CurrentLane: Int = 1
+    
+    
     var connection = NetworkBuffer()
     var MessageBack: String = " "
     override func viewDidLoad() {
@@ -54,16 +62,105 @@ class ViewController: UIViewController {
         connection.stopChatSession()
         
     }
-    @IBAction func SendTheTextPushed(_ sender: Any) {
-        let text = TextForNetwork.text!
-        let sending = "\(text)".data(using: .ascii)!
-        
-        _ = sending.withUnsafeBytes { connection.outputStream.write($0, maxLength: sending.count) }
-    }
     
     func SendBackText(returnString: String){
         MessageBack = returnString
         print(MessageBack)
+    }
+    
+    @IBAction func Lane1Pushed(_ sender: Any) {
+        var lanes = [UIButton]()
+        lanes.append(Lane1)
+        lanes.append(Lane2)
+        lanes.append(Lane3)
+        lanes.append(Lane4)
+        lanes.append(Lane5)
+        lanes.append(Lane6)
+        CurrentLane = 1
+        LaneNumberLabel.text = "Lane Number: \(CurrentLane)"
+        for i in 0...5{
+            lanes[i].isEnabled = true;
+            lanes[i].accessibilityHint = "Push to run in lane \(i + 1), currently set to run in lane \(CurrentLane)"
+        }
+    }
+    
+    @IBAction func Lane2Pushed(_ sender: Any) {
+        var lanes = [UIButton]()
+        lanes.append(Lane1)
+        lanes.append(Lane2)
+        lanes.append(Lane3)
+        lanes.append(Lane4)
+        lanes.append(Lane5)
+        lanes.append(Lane6)
+        CurrentLane = 2
+        LaneNumberLabel.text = "Lane Number: \(CurrentLane)"
+        for i in 0...5{
+            lanes[i].isEnabled = true;
+            lanes[i].accessibilityHint = "Push to run in lane \(i + 1), currently set to run in lane \(CurrentLane)"
+        }
+    }
+    
+    @IBAction func Lane3Pushed(_ sender: Any) {
+        var lanes = [UIButton]()
+        lanes.append(Lane1)
+        lanes.append(Lane2)
+        lanes.append(Lane3)
+        lanes.append(Lane4)
+        lanes.append(Lane5)
+        lanes.append(Lane6)
+        CurrentLane = 3
+        LaneNumberLabel.text = "Lane Number: \(CurrentLane)"
+        for i in 0...5{
+            lanes[i].isEnabled = true;
+            lanes[i].accessibilityHint = "Push to run in lane \(i + 1), currently set to run in lane \(CurrentLane)"
+        }
+    }
+    
+    @IBAction func Lane4Pushed(_ sender: Any) {
+        var lanes = [UIButton]()
+        lanes.append(Lane1)
+        lanes.append(Lane2)
+        lanes.append(Lane3)
+        lanes.append(Lane4)
+        lanes.append(Lane5)
+        lanes.append(Lane6)
+        CurrentLane = 4
+        LaneNumberLabel.text = "Lane Number: \(CurrentLane)"
+        for i in 0...5{
+            lanes[i].isEnabled = true;
+            lanes[i].accessibilityHint = "Push to run in lane \(i + 1), currently set to run in lane \(CurrentLane)"
+        }
+    }
+    @IBAction func Lane5Pushed(_ sender: Any) {
+        var lanes = [UIButton]()
+        lanes.append(Lane1)
+        lanes.append(Lane2)
+        lanes.append(Lane3)
+        lanes.append(Lane4)
+        lanes.append(Lane5)
+        lanes.append(Lane6)
+        CurrentLane = 5
+        LaneNumberLabel.text = "Lane Number: \(CurrentLane)"
+        for i in 0...5{
+            lanes[i].isEnabled = true;
+            lanes[i].accessibilityHint = "Push to run in lane \(i + 1), currently set to run in lane \(CurrentLane)"
+        }
+    }
+    
+    @IBAction func Lane6Pushed(_ sender: Any) {
+        var lanes = [UIButton]()
+        lanes.append(Lane1)
+        lanes.append(Lane2)
+        lanes.append(Lane3)
+        lanes.append(Lane4)
+        lanes.append(Lane5)
+        lanes.append(Lane6)
+        CurrentLane = 6
+        LaneNumberLabel.text = "Lane Number: \(CurrentLane)"
+        for i in 0...5{
+            lanes[i].isEnabled = true;
+            lanes[i].accessibilityHint = "Push to run in lane \(i + 1), currently set to run in lane \(CurrentLane)"
+        }
     }
 }
 
