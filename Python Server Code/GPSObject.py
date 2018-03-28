@@ -5,9 +5,11 @@ Created on Thu Mar  8 19:25:30 2018
 @author: Thomas Marks
 """
 from math import sqrt
-from math import arctan
+from math import atan
 from math import pi
-from enum import Enum
+
+
+
 class GPSCoord:
     def __init__(self, MMC):
         self.number = MMC[0]
@@ -24,11 +26,6 @@ class GPSCoord:
     def __pow__(self, other):
         return [(self * other) / abs(self.timeStamp - other.timeStamp), abs(self.timeStamp - other.timeStamp)]
 
-class Section(Enum):
-    TOP : 1
-    RIGHT : 2
-    BOT : 3
-    LEFT : 4
 
 class Track:
     def __init__(self, lane, GPSQueue, SendQueue):
@@ -45,12 +42,12 @@ class Track:
     def update(self):
         while True:
             currentGPS = self.GPSQueue.get()
-            if(currentGPS == "Quit"):
-                self.SendQueue.add("Quit")
+            if(currentGPS.number == -1):
+                self.SendQueue.put("Quit")
                 break
             else:
                 self.__updateSelf(currentGPS)
-                
+        print('Broke out of update thread')
                 
                 
                 

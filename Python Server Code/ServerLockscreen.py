@@ -22,11 +22,12 @@ def marvelThread(status, GPSQueue):
     while status[0]:
             sleep(.1)            
             #Number of beacon, X, Y, Z, Time
-            GPSQueue.add(GPSCoord(hedge.position()))
+            GPSQueue.put(GPSCoord(hedge.position()))
             print ("The Marvel Thread: ", '')
             hedge.print_position()
     if not status[0]:
-        GPSQueue.add("Quit")
+        GPSQueue.put(GPSCoord([-1,-1,-1,-1,-1]))
+    print("Broke out of marvel")
     
             
 def read(c, marvel):
@@ -42,6 +43,7 @@ def read(c, marvel):
         if(data == "Quit"):
             marvel[0] = False
             break
+    print("Broke out of read")
 
 def send(c, SendQueue):
     #Print for the debugging 
@@ -65,6 +67,7 @@ def send(c, SendQueue):
             c.send(sendMessage)
         except socket.error: #catch the error, and just print it happened
             print("Couldn't send anything")
+     print("Broke out of send")
             
 def update(GPSQueue, SendQueue):
     #Make a track object, and update it (it takes care of updating itself)
