@@ -9,7 +9,6 @@ from math import atan
 from math import pi
 
 
-
 class GPSCoord:
     def __init__(self, MMC):
         self.number = MMC[0]
@@ -100,9 +99,9 @@ def bearingFinder(coord1, coord2):
     y1 = coord1.y
     y2 = coord2.y
     if(x2 > x1):
-        return arctan((y2 - y1)/(x2 - x1))
+        return atan((y2 - y1)/(x2 - x1))
     else:
-        return arctan((y2 - y1)/(x2 - x1)) - pi
+        return atan((y2 - y1)/(x2 - x1)) - pi
     
     
     
