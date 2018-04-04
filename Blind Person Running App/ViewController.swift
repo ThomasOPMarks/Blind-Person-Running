@@ -2,12 +2,14 @@
 //  ViewController.swift
 //  Blind Person Running App
 //
-//  Created by student on 2/16/18.
+//  Created by thomas on 2/16/18.
 //  Copyright © 2018 Blind Institute of Technology. All rights reserved.
 //
 
 import UIKit
 //Accessibility must be mainted on this app.
+
+
 class ViewController: UIViewController {
 
     @IBOutlet weak var TitleLabel: UILabel!
@@ -22,14 +24,21 @@ class ViewController: UIViewController {
     @IBOutlet weak var Lane5: UIButton!
     @IBOutlet weak var Lane6: UIButton!
     var CurrentLane: Int = 1
-    
+    var reop = false
+    var help = 10
     
     var connection = NetworkBuffer()
     var MessageBack: String = " "
     override func viewDidLoad() {
         super.viewDidLoad()
     }
-    
+    /*Send Message example
+ @IBAction func SendTheTextPushed(_ sender: Any) {
+ let text = TextForNetwork.text!
+ let sending = "\(text)".data(using: .ascii)!
+ 
+ _ = sending.withUnsafeBytes { connection.outputStream.write($0, maxLength: sending.count) }
+ } */
     func textFieldShouldReturn(textField: UITextField) -> Bool {
         textField.resignFirstResponder()
         return true
@@ -42,9 +51,21 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+    func closeTemp() {
+        connection.stopChatSession()
+    }
+    func reopen () {
+        connection = NetworkBuffer()
+        connection.delegate = self
+        connection.setupNetworkCommunication()
+        reop = true
+        help = 20
+    }
+    
 
     @IBAction func ConnectPushed(_ sender: Any) {
         ConnectButton.isEnabled = false;
+        reop = true
         ConnectButton.accessibilityHint = "A session is already taking place";
         StatusLabel.text = "Status: Connected";
         DisconnectButton.isEnabled = true;
@@ -55,10 +76,15 @@ class ViewController: UIViewController {
     
     @IBAction func EndSessionPushed(_ sender: Any) {
         ConnectButton.isEnabled = true;
+        reop = false
         ConnectButton.accessibilityHint = "Double tap to connect to the grid and start a running session";
         StatusLabel.text = "Status: Not Connected";
         DisconnectButton.isEnabled = false;
         DisconnectButton.accessibilityHint = "There is no current running session to end";
+        let text = "Quit"
+        let sending = "\(text)".data(using: .ascii)!
+        
+        _ = sending.withUnsafeBytes { connection.outputStream.write($0, maxLength: sending.count) }
         connection.stopChatSession()
         
     }
@@ -69,6 +95,10 @@ class ViewController: UIViewController {
     }
     
     @IBAction func Lane1Pushed(_ sender: Any) {
+        if(reop){
+            print("Changed it")
+        }
+        print(help)
         var lanes = [UIButton]()
         lanes.append(Lane1)
         lanes.append(Lane2)
@@ -133,6 +163,10 @@ class ViewController: UIViewController {
     }
     @IBAction func Lane5Pushed(_ sender: Any) {
         var lanes = [UIButton]()
+        let text = "Quit"
+        let sending = "\(text)".data(using: .ascii)!
+        
+        _ = sending.withUnsafeBytes { connection.outputStream.write($0, maxLength: sending.count) }
         lanes.append(Lane1)
         lanes.append(Lane2)
         lanes.append(Lane3)
@@ -149,6 +183,10 @@ class ViewController: UIViewController {
     
     @IBAction func Lane6Pushed(_ sender: Any) {
         var lanes = [UIButton]()
+        let text = "Hello from lane 6"
+        let sending = "\(text)".data(using: .ascii)!
+        
+        _ = sending.withUnsafeBytes { connection.outputStream.write($0, maxLength: sending.count) }
         lanes.append(Lane1)
         lanes.append(Lane2)
         lanes.append(Lane3)
