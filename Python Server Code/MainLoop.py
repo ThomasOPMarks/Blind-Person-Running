@@ -6,6 +6,7 @@ Created on Thu Mar  8 19:22:50 2018
 """
 
 #  
+import RPi.GPIO as GPIO
 import socket
 import threading
 import time
@@ -16,6 +17,45 @@ from queue import Queue
 from marvelmind import MarvelmindHedge
 from GPSObject import GPSCoord
 from GPSObject import Track
+
+
+
+def PMWFunction(PWMQueue):
+    GPIO.setmode(GPIO.BOARD)
+
+    #pins 12 and 32 are the only pwms
+    GPIO.setup(12, GPIO.OUT)
+    pwm1= GPIO.PWM(12, 100)
+    GPIO.setup(32, GPIO.OUT)
+    pwm2= GPIO.PWM(32, 100)
+    
+    #hedge = MarvelmindHedge(tty = "/dev/ttyACM0", adr=10, debug=False) # create MarvelmindHedge thread
+    #hedge.start() 
+    
+    # main loop of the program
+    print("\nPress Ctl C to quit \n")
+    #text = raw_input("prompt: ")  # Python 2
+    #right now it is just taking in input from user can change this
+    #to whatever
+    #text = float(input("prompt: "))  # Python 3
+    dc1=0
+    dc2=0
+    pwm1.start(dc1)
+    pwm2.start(dc2)
+    #threshold = 20; #can't feel anything under 20
+    
+    currentPair = PWMQueue.get()
+    while currentPair.left != -1:
+        pwm1.ChangeDutyCycle(currentPair.left)
+        pwm2.ChangeDutyCycle(currentPair.right)
+        currentPair = PWMQueue.get()
+        
+    
+    
+    pwm1.stop()
+    pwm2.stop()
+    GPIO.cleanup()
+
 def marvelThread(status, GPSQueue):
     hedge = MarvelmindHedge(tty = "/dev/ttyACM0", adr=10, debug=False) # create MarvelmindHedge thread
     hedge.start() # start thread
@@ -66,9 +106,9 @@ def send(c, SendQueue):
         except socket.error: #catch the error, and just print it happened
             print("Couldn't send anything")
             
-def update(GPSQueue, SendQueue):
+def update(GPSQueue, SendQueue, PWMQueue):
     #Make a track object, and update it (it takes care of updating itself)
-    track = Track(1, GPSQueue, SendQueue)
+    track = Track(1, GPSQueue, SendQueue, PWMQueue)
     track.update()
 
 
@@ -77,6 +117,7 @@ def main():
     while(data != "Quit"):
         GPSQueue = Queue()
         SendQueue = Queue()
+        PWMQueue = Queue()
         
         mysocket = socket.socket()
         host = socket.gethostbyname(socket.getfqdn())
@@ -108,18 +149,22 @@ def main():
         #marvel thread
         m = Thread(target = marvelThread, args = (marvelOK, GPSQueue,))
         #Update thread
-        u = Thread(target = update, args = (GPSQueue, SendQueue,))
+        u = Thread(target = update, args = (GPSQueue, SendQueue, PWMQueue,))
+        #PWM Queue
+        p = Thread(target = PMWFunction, args = (PWMQueue,))
         
         #Start all the threads
         r.start()
         m.start()
         u.start()
         s.start()
+        p.start()
         #Wait for them to all finish
         r.join()
         m.join()
         u.join()
         s.join()
+        p.join()
         print("Server stopped for that session")
         c.close()
         #After this it once again starts the server, waiting for a new connection (we're in a while true)
