@@ -4,11 +4,16 @@ Created on Thu Mar  8 19:25:30 2018
 
 @author: Thomas Marks
 """
-import RPi.GPIO as GPIO
-from queue import Queue
+
 from math import sqrt
 from math import atan
 from math import pi
+
+class Section:
+    TOP = 1
+    BOT = 2
+    LEFT = 3
+    RIGHT = 4
 
 class PWMPair:
     def __init__(self, leftx, rightx):
@@ -60,6 +65,7 @@ class Track:
                 
                 
     def __updateSelf(self, GPS, PWMQueue):
+        #TODO Make actual logic via test
         if(GPS.x > .8):
             PWMQueue.put(PWMPair(0, 50))
         elif(GPS.x < .2):

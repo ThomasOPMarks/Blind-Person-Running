@@ -8,9 +8,6 @@ Created on Thu Mar  8 19:22:50 2018
 #  
 import RPi.GPIO as GPIO
 import socket
-import threading
-import time
-import math
 from time import sleep
 from threading import Thread
 from queue import Queue

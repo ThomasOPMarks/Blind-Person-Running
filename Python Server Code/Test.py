@@ -31,7 +31,10 @@ class actual(interface1, interface2):
         return 0
     
     
+class Section:
+    TOP = 1
+    BOT = 2
+    LEFT = 3
+    RIGHT = 4
     
-a = actual()
-print(a.function1())
-print(a.function2())
+print(Section.LEFT)
