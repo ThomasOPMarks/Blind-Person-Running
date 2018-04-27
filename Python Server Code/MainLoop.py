@@ -10,7 +10,7 @@ import RPi.GPIO as GPIO
 import socket
 from time import sleep
 from threading import Thread
-from queue import Queue
+from Queue import Queue
 from marvelmind import MarvelmindHedge
 from GPSObject import GPSCoord
 from GPSObject import Track
@@ -30,7 +30,7 @@ def PMWFunction(PWMQueue):
     #hedge.start() 
     
     # main loop of the program
-    print("\nPress Ctl C to quit \n")
+    print("\n PWM's Are AcTiVaTiNg! \n")
     #text = raw_input("prompt: ")  # Python 2
     #right now it is just taking in input from user can change this
     #to whatever
@@ -52,6 +52,7 @@ def PMWFunction(PWMQueue):
     pwm1.stop()
     pwm2.stop()
     GPIO.cleanup()
+    print("ended PWMQueue thread")
 
 def marvelThread(status, GPSQueue):
     hedge = MarvelmindHedge(tty = "/dev/ttyACM0", adr=10, debug=False) # create MarvelmindHedge thread
@@ -59,11 +60,12 @@ def marvelThread(status, GPSQueue):
     while status[0]:
             sleep(.1)            
             #Number of beacon, X, Y, Z, Time
-            GPSQueue.add(GPSCoord(hedge.position()))
-            print ("The Marvel Thread: ", '')
+            GPSQueue.put(GPSCoord(hedge.position()))
+            print ("The Marvel Thread: ")
             hedge.print_position()
     if not status[0]:
-        GPSQueue.add("Quit")
+        GPSQueue.put(GPSCoord([-1, -1, -1, -1, -1]))
+        print("Ended Marvel Queue")
     
             
 def read(c, marvel):
@@ -78,6 +80,7 @@ def read(c, marvel):
         #If the data was the quit message, break out and signal to marvel to end
         if(data == "Quit"):
             marvel[0] = False
+            print("Ended the read thread")
             break
 
 def send(c, SendQueue):
@@ -94,7 +97,7 @@ def send(c, SendQueue):
             sendMessage = SendQueue.get()
             #If it was quit (from the update thread because it quit)
             if(sendMessage == "Quit"):
-                print("In the sending thread Quit")
+                print("Ended Sending thread")
                 c.send("Quit")
                 break
             #Otherwise send the message
@@ -107,11 +110,13 @@ def update(GPSQueue, SendQueue, PWMQueue):
     #Make a track object, and update it (it takes care of updating itself)
     track = Track(1, GPSQueue, SendQueue, PWMQueue)
     track.update()
+    print("ended the update thread")
 
 
 def main():
     data = ""
     while(data != "Quit"):
+        print("Entered main loop")
         GPSQueue = Queue()
         SendQueue = Queue()
         PWMQueue = Queue()
@@ -135,7 +140,7 @@ def main():
         c, addr = mysocket.accept()
         
         
-        
+        print("made it here")
         # A list, that is the condition for the coordinates loop (modified by receive, read by marvel)
         marvelOK = [True]
 

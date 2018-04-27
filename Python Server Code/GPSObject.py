@@ -66,10 +66,10 @@ class Track:
                 
     def __updateSelf(self, GPS, PWMQueue):
         #TODO Make actual logic via test
-        if(GPS.x > .8):
-            PWMQueue.put(PWMPair(0, 50))
-        elif(GPS.x < .2):
-            PWMQueue.put(PWMPair(50, 0))
+        if(GPS.y > 3.5):
+            PWMQueue.put(PWMPair(100, 0))
+        elif(GPS.y < 2.5):
+            PWMQueue.put(PWMPair(0, 100))
         else:
             PWMQueue.put(PWMPair(0,0))
             
