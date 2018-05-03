@@ -51,6 +51,8 @@ class Track:
         self.topOfBot = 73 * self.trackWidth * (lane - 1)
         self.botOfBot = self.topOfBot + self.trackWidth
         self.PWMQueue = PWMQueue
+        self.lastLeft = -1
+        self.lastRight = -1
     def update(self):
         while True:
             currentGPS = self.GPSQueue.get()
@@ -67,11 +69,18 @@ class Track:
     def __updateSelf(self, GPS, PWMQueue):
         #TODO Make actual logic via test
         if(GPS.y > 3.5):
-            PWMQueue.put(PWMPair(100, 0))
+            left = 100
+            right = 0
         elif(GPS.y < 2.5):
-            PWMQueue.put(PWMPair(0, 100))
+            left = 0
+            right = 100
         else:
-            PWMQueue.put(PWMPair(0,0))
+            left = 0
+            right = 0
+        if (self.lastLeft != left or self.lastRight != right):
+            PWMQueue.put(PWMPair(left, right))
+        self.lastLeft = left
+        self.lastRight = right
             
         return 0
     
