@@ -17,9 +17,8 @@ from GPSObject import Track
 
 
 
-def PMWFunction(PWMQueue):
+def PMWFunction(PWMQueue, inQueue, outQueue):
     GPIO.setmode(GPIO.BOARD)
-
     #pins 12 and 32 are the only pwms
     GPIO.setup(12, GPIO.OUT)
     pwm1= GPIO.PWM(12, 100)
@@ -42,10 +41,13 @@ def PMWFunction(PWMQueue):
     #threshold = 20; #can't feel anything under 20
     
     currentPair = PWMQueue.get()
+    outQueue[1] += 1
     while currentPair.left != -1:
         pwm1.ChangeDutyCycle(currentPair.left)
         pwm2.ChangeDutyCycle(currentPair.right)
         currentPair = PWMQueue.get()
+        outQueue[1] += 1
+        print("NUMBER OF OBJECTS IN THE PWM QUEUE: " + str(inQueue[1] - outQueue[1]))
         
     
     
@@ -54,13 +56,14 @@ def PMWFunction(PWMQueue):
     GPIO.cleanup()
     print("ended PWMQueue thread")
 
-def marvelThread(status, GPSQueue):
+def marvelThread(status, GPSQueue, inQueue):
     hedge = MarvelmindHedge(tty = "/dev/ttyACM0", adr=10, debug=False) # create MarvelmindHedge thread
     hedge.start() # start thread
     while status[0]:
             sleep(.1)            
             #Number of beacon, X, Y, Z, Time
             GPSQueue.put(GPSCoord(hedge.position()))
+            inQueue[0] += 1
             print ("The Marvel Thread: ")
             hedge.print_position()
     if not status[0]:
@@ -106,9 +109,9 @@ def send(c, SendQueue):
         except socket.error: #catch the error, and just print it happened
             print("Couldn't send anything")
             
-def update(GPSQueue, SendQueue, PWMQueue):
+def update(GPSQueue, SendQueue, PWMQueue, inQueue, outQueue):
     #Make a track object, and update it (it takes care of updating itself)
-    track = Track(1, GPSQueue, SendQueue, PWMQueue)
+    track = Track(1, GPSQueue, SendQueue, PWMQueue, inQueue, outQueue)
     track.update()
     print("ended the update thread")
 
@@ -139,7 +142,10 @@ def main():
         
         c, addr = mysocket.accept()
         
-        
+        #Number of things in the queue [gps, pwm]
+        inQueue = [0,0]
+        #Number of things out of the queue [gps, pwm]
+        outQueue = [0,0]
         print("made it here")
         # A list, that is the condition for the coordinates loop (modified by receive, read by marvel)
         marvelOK = [True]
@@ -149,11 +155,11 @@ def main():
         #sending thread
         s = Thread(target = send, args = (c, SendQueue,))
         #marvel thread
-        m = Thread(target = marvelThread, args = (marvelOK, GPSQueue,))
+        m = Thread(target = marvelThread, args = (marvelOK, GPSQueue, inQueue,))
         #Update thread
-        u = Thread(target = update, args = (GPSQueue, SendQueue, PWMQueue,))
+        u = Thread(target = update, args = (GPSQueue, SendQueue, PWMQueue, inQueue, outQueue,))
         #PWM Queue
-        p = Thread(target = PMWFunction, args = (PWMQueue,))
+        p = Thread(target = PMWFunction, args = (PWMQueue, inQueue, outQueue,))
         
         #Start all the threads
         r.start()

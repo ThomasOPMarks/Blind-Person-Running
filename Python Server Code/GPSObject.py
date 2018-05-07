@@ -39,7 +39,7 @@ class GPSCoord:
 
 
 class Track:
-    def __init__(self, lane, GPSQueue, SendQueue, PWMQueue):
+    def __init__(self, lane, GPSQueue, SendQueue, PWMQueue, inQueue, outQueue):
         self.GPSQueue = GPSQueue
         self.SendQueue = SendQueue
         self.straight = 84.39
@@ -53,15 +53,20 @@ class Track:
         self.PWMQueue = PWMQueue
         self.lastLeft = -1
         self.lastRight = -1
+        self.inQueue = inQueue
+        self.outQueue = outQueue
     def update(self):
         while True:
             currentGPS = self.GPSQueue.get()
+            self.outQueue[0] += 1
+            print("NUMBER OF ITEMS IN THE GPS QUEUE: " + str(self.inQueue[0] - self.outQueue[0]))
             if(currentGPS.number == -1):
                 self.SendQueue.put("Quit")
                 self.PWMQueue.put(PWMPair(-1,-1))
                 break
             else:
                 self.__updateSelf(currentGPS, self.PWMQueue)
+                self.inQueue[1] += 1
         print('Broke out of update thread')
                 
                 
