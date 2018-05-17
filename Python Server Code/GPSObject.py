@@ -99,27 +99,27 @@ class Track:
         
         #FOR NORMAL WHOLE TRACK
         if section == Section.TOP:
-            if y > -.11 - self.r * self.trackWidth :
+            if y - self.yOffset > -.11 - self.r * self.trackWidth :
                 left = 100
                 right = 0
-            elif y < -1.11 - self.r * self.trackWidth:
+            elif y - self.yOffset < -1.11 - self.r * self.trackWidth:
                 right = 100
                 left = 0
             else:
                 left = 0
                 right = 0
         elif section == Section.BOT:
-            if y < 73.0 + 0.11 + self.r * self.trackWidth:
+            if y - self.yOffset < 73.0 + 0.11 + self.r * self.trackWidth:
                 left = 100
                 right = 0
-            elif y > 73.0 + 1.11 + self.r * self.trackWidth:
+            elif y - self.yOffset > 73.0 + 1.11 + self.r * self.trackWidth:
                 right = 100
                 left = 0
             else:
                 left = 0
                 right = 0
         elif section == Section.LEFT:
-            distance = sqrt((x) ** 2 + (y - self.Radius))
+            distance = sqrt((x - self.xOffset) ** 2 + (y - self.yOffset - self.Radius))
             if distance < self.Radius + .11:
                 left = 100
                 right = 0
@@ -130,7 +130,7 @@ class Track:
                 left = 0
                 right = 0
         elif section == Section.RIGHT:
-            distance = sqrt((x - self.straight) ** 2 + (y - self.Radius))
+            distance = sqrt((x - self.xOffset - self.straight) ** 2 + (y - self.yOffset - self.Radius))
             if distance < self.Radius + .11:
                 left = 100
                 right = 0
@@ -151,9 +151,9 @@ class Track:
         y = coord.y 
         if(x < 0):
             return Section.LEFT
-        elif x > self.straight:
+        elif x - self.xOffset > self.straight:
             return Section.RIGHT
-        elif y > self.Radius:
+        elif y - self.yOffset > self.Radius:
             return Section.BOT
         else:
             return Section.TOP
