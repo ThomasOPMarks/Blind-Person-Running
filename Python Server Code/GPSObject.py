@@ -149,7 +149,7 @@ class Track:
     def sectionGetter(self, coord):
         x = coord.x 
         y = coord.y 
-        if(x < 0):
+        if(x - self.xOffset < 0):
             return Section.LEFT
         elif x - self.xOffset > self.straight:
             return Section.RIGHT
