@@ -39,7 +39,7 @@ class GPSCoord:
 
 
 class Track:
-    def __init__(self, lane, GPSQueue, SendQueue, PWMQueue):
+    def __init__(self, lane, GPSQueue, SendQueue, PWMQueue, inQueue, outQueue):
         self.GPSQueue = GPSQueue
         self.SendQueue = SendQueue
         self.straight = 84.39
@@ -51,27 +51,41 @@ class Track:
         self.topOfBot = 73 * self.trackWidth * (lane - 1)
         self.botOfBot = self.topOfBot + self.trackWidth
         self.PWMQueue = PWMQueue
+        self.lastLeft = -1
+        self.lastRight = -1
+        self.inQueue = inQueue
+        self.outQueue = outQueue
     def update(self):
         while True:
             currentGPS = self.GPSQueue.get()
+            self.outQueue[0] += 1
+            print("NUMBER OF ITEMS IN THE GPS QUEUE: " + str(self.inQueue[0] - self.outQueue[0]))
             if(currentGPS.number == -1):
                 self.SendQueue.put("Quit")
                 self.PWMQueue.put(PWMPair(-1,-1))
                 break
             else:
                 self.__updateSelf(currentGPS, self.PWMQueue)
+                self.inQueue[1] += 1
         print('Broke out of update thread')
                 
                 
                 
     def __updateSelf(self, GPS, PWMQueue):
         #TODO Make actual logic via test
-        if(GPS.x > .8):
-            PWMQueue.put(PWMPair(0, 50))
-        elif(GPS.x < .2):
-            PWMQueue.put(PWMPair(50, 0))
+        if(GPS.y > 3.5):
+            left = 100
+            right = 0
+        elif(GPS.y < 2.5):
+            left = 0
+            right = 100
         else:
-            PWMQueue.put(PWMPair(0,0))
+            left = 0
+            right = 0
+        if (self.lastLeft != left or self.lastRight != right):
+            PWMQueue.put(PWMPair(left, right))
+        self.lastLeft = left
+        self.lastRight = right
             
         return 0
     
