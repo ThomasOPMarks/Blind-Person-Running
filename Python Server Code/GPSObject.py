@@ -39,7 +39,7 @@ class GPSCoord:
 
 
 class Track:
-    def __init__(self, lane, GPSQueue, SendQueue, PWMQueue, inQueue, outQueue):
+    def __init__(self, lane, GPSQueue, SendQueue, PWMQueue, Reverse):
         self.GPSQueue = GPSQueue
         self.SendQueue = SendQueue
         self.straight = 84.39
@@ -51,48 +51,50 @@ class Track:
         self.topOfBot = 73 * self.trackWidth * (lane - 1)
         self.botOfBot = self.topOfBot + self.trackWidth
         self.PWMQueue = PWMQueue
-        self.lastLeft = -1
-        self.lastRight = -1
-        self.inQueue = inQueue
-        self.outQueue = outQueue
+        self.Reverse = Reverse
     def update(self):
         while True:
             currentGPS = self.GPSQueue.get()
-            self.outQueue[0] += 1
-            print("NUMBER OF ITEMS IN THE GPS QUEUE: " + str(self.inQueue[0] - self.outQueue[0]))
             if(currentGPS.number == -1):
                 self.SendQueue.put("Quit")
                 self.PWMQueue.put(PWMPair(-1,-1))
                 break
             else:
                 self.__updateSelf(currentGPS, self.PWMQueue)
-                self.inQueue[1] += 1
         print('Broke out of update thread')
                 
                 
                 
     def __updateSelf(self, GPS, PWMQueue):
         #TODO Make actual logic via test
-        if(GPS.y > 3.5):
+        if(GPS.y < -1.96):
             left = 100
             right = 0
-        elif(GPS.y < 2.5):
+            print('Right buzz')
+            f = open('dataouts.txt','a')
+            f.write('Right buzz\n')
+            f.close()
+        elif(GPS.y > -0.51): 
             left = 0
             right = 100
+            print('Left buzz')
+            f = open('dataouts.txt','a')
+            f.write('Left buzz\n')
+            f.close()
         else:
             left = 0
             right = 0
-        if (self.lastLeft != left or self.lastRight != right):
+        if self.Reverse[0]:
             PWMQueue.put(PWMPair(left, right))
-        self.lastLeft = left
-        self.lastRight = right
+        else:
+            PWMQueue.put(PWMPair(right, left))
             
         return 0
     
     #Determines what section of the track the user is in
     def sectionGetter(self, coord):
-        x = coord.x
-        y = coord.y
+        x = coord.x 
+        y = coord.y 
         if(x > 0 and x < self.straight):
             if(y < self.innerRadius):
                 return Section.TOP
@@ -139,8 +141,7 @@ def bearingFinder(coord1, coord2):
         return atan((y2 - y1)/(x2 - x1)) - pi
     
     
-    
-    
+
     
     
     
