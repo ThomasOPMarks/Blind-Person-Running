@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -54,87 +54,39 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VM2-UK-ggt">
-                                <rect key="frame" x="192" y="267" width="47" height="30"/>
-                                <state key="normal" title="Lane 4"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yTk-79-vSe">
+                                <rect key="frame" x="144" y="253" width="87" height="42"/>
+                                <accessibility key="accessibilityConfiguration" hint="Click to Reverse Direction. Current direction is clockwise." label="Reverse"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="25"/>
+                                <state key="normal" title="Reverse"/>
                                 <connections>
-                                    <action selector="Lane4Pushed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="fPj-wg-wks"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="26G-zb-Eab">
-                                <rect key="frame" x="135" y="267" width="47" height="30"/>
-                                <state key="normal" title="Lane 3"/>
-                                <connections>
-                                    <action selector="Lane3Pushed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="M1g-HP-Uln"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2r4-eb-JLB">
-                                <rect key="frame" x="249" y="267" width="47" height="30"/>
-                                <state key="normal" title="Lane 5"/>
-                                <connections>
-                                    <action selector="Lane5Pushed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="pdd-xf-CQv"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="OSO-GQ-kct">
-                                <rect key="frame" x="306" y="267" width="47" height="30"/>
-                                <state key="normal" title="Lane 6"/>
-                                <connections>
-                                    <action selector="Lane6Pushed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="D6y-xO-CzK"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DGr-cb-MLP">
-                                <rect key="frame" x="78" y="267" width="47" height="30"/>
-                                <state key="normal" title="Lane 2"/>
-                                <connections>
-                                    <action selector="Lane2Pushed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="QIp-Ec-ScV"/>
-                                </connections>
-                            </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="AZ6-eK-tOU">
-                                <rect key="frame" x="24" y="267" width="44" height="30"/>
-                                <state key="normal" title="Lane 1"/>
-                                <connections>
-                                    <action selector="Lane1Pushed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Crr-PT-2UN"/>
+                                    <action selector="ReverseButtonPushed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="9fE-4j-kyQ"/>
                                 </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="VM2-UK-ggt" firstAttribute="leading" secondItem="26G-zb-Eab" secondAttribute="trailing" constant="10" id="5S1-qv-df5"/>
-                            <constraint firstItem="26G-zb-Eab" firstAttribute="top" secondItem="4XG-ws-Rwh" secondAttribute="bottom" constant="35" id="Aw6-MK-v7K"/>
+                            <constraint firstItem="yTk-79-vSe" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="AD2-ua-FzK"/>
                             <constraint firstItem="LMy-Kz-ihO" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Cp2-tE-mSg"/>
-                            <constraint firstItem="26G-zb-Eab" firstAttribute="centerY" secondItem="AZ6-eK-tOU" secondAttribute="centerY" id="JmN-lf-mmI"/>
-                            <constraint firstItem="xi4-zj-y89" firstAttribute="top" secondItem="VM2-UK-ggt" secondAttribute="bottom" constant="12.5" id="KiR-Xn-Bl7"/>
-                            <constraint firstItem="2r4-eb-JLB" firstAttribute="leading" secondItem="VM2-UK-ggt" secondAttribute="trailing" constant="10" id="Ls7-r2-YUC"/>
-                            <constraint firstItem="2r4-eb-JLB" firstAttribute="top" secondItem="4XG-ws-Rwh" secondAttribute="bottom" constant="35" id="PlE-Dz-tCH"/>
-                            <constraint firstItem="VM2-UK-ggt" firstAttribute="top" secondItem="4XG-ws-Rwh" secondAttribute="bottom" constant="35" id="Pmu-il-HoT"/>
                             <constraint firstItem="yEK-iS-gpY" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Q9U-6f-sv3"/>
-                            <constraint firstItem="OSO-GQ-kct" firstAttribute="leading" secondItem="2r4-eb-JLB" secondAttribute="trailing" constant="10" id="Wln-3r-HWV"/>
                             <constraint firstItem="xi4-zj-y89" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Xg3-8W-USw"/>
                             <constraint firstItem="LMy-Kz-ihO" firstAttribute="top" secondItem="xi4-zj-y89" secondAttribute="bottom" constant="20" id="Ypt-xt-lli"/>
-                            <constraint firstItem="DGr-cb-MLP" firstAttribute="leading" secondItem="AZ6-eK-tOU" secondAttribute="trailing" constant="10" id="apo-5t-yCT"/>
-                            <constraint firstItem="2r4-eb-JLB" firstAttribute="centerY" secondItem="OSO-GQ-kct" secondAttribute="centerY" id="dDi-Ch-Zyi"/>
                             <constraint firstItem="xi4-zj-y89" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="f0d-9u-vJM"/>
                             <constraint firstItem="yEK-iS-gpY" firstAttribute="top" secondItem="y6o-X3-iki" secondAttribute="bottom" constant="40" id="hNL-Gv-06i"/>
                             <constraint firstItem="4XG-ws-Rwh" firstAttribute="top" secondItem="yEK-iS-gpY" secondAttribute="bottom" constant="20" id="jXT-HR-jZt"/>
+                            <constraint firstItem="yTk-79-vSe" firstAttribute="top" secondItem="4XG-ws-Rwh" secondAttribute="bottom" constant="21" id="k5M-Nl-LrY"/>
                             <constraint firstItem="y6o-X3-iki" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="50" id="ta9-Ne-EgJ"/>
-                            <constraint firstItem="26G-zb-Eab" firstAttribute="centerY" secondItem="DGr-cb-MLP" secondAttribute="centerY" id="u8g-Un-pMx"/>
                             <constraint firstItem="4XG-ws-Rwh" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="vFR-IS-VbA"/>
-                            <constraint firstItem="y6o-X3-iki" firstAttribute="leading" secondItem="AZ6-eK-tOU" secondAttribute="trailing" constant="-8" id="viN-YY-rFM"/>
                             <constraint firstItem="y6o-X3-iki" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="x0z-ia-SpV"/>
-                            <constraint firstItem="26G-zb-Eab" firstAttribute="leading" secondItem="DGr-cb-MLP" secondAttribute="trailing" constant="10" id="xz5-gt-67w"/>
+                            <constraint firstItem="xi4-zj-y89" firstAttribute="top" secondItem="yTk-79-vSe" secondAttribute="bottom" constant="14.5" id="zdp-sH-Yys"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
                         <outlet property="ConnectButton" destination="xi4-zj-y89" id="n4h-VQ-Rmv"/>
                         <outlet property="DisconnectButton" destination="LMy-Kz-ihO" id="8cr-YS-sf5"/>
-                        <outlet property="Lane1" destination="AZ6-eK-tOU" id="qZK-rI-xPM"/>
-                        <outlet property="Lane2" destination="DGr-cb-MLP" id="cw5-1j-vYQ"/>
-                        <outlet property="Lane3" destination="26G-zb-Eab" id="Imm-wJ-U9R"/>
-                        <outlet property="Lane4" destination="VM2-UK-ggt" id="j1H-GI-lej"/>
-                        <outlet property="Lane5" destination="2r4-eb-JLB" id="eJp-fS-dFI"/>
-                        <outlet property="Lane6" destination="OSO-GQ-kct" id="02S-yc-242"/>
                         <outlet property="LaneNumberLabel" destination="4XG-ws-Rwh" id="C24-UX-AUa"/>
+                        <outlet property="ReverseButton" destination="yTk-79-vSe" id="eeE-Ve-rZB"/>
                         <outlet property="StatusLabel" destination="yEK-iS-gpY" id="euy-UB-8Bc"/>
                         <outlet property="TitleLabel" destination="y6o-X3-iki" id="yi1-VB-eVp"/>
                     </connections>

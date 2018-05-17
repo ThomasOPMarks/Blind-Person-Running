@@ -11,26 +11,24 @@ import UIKit
 
 
 class ViewController: UIViewController {
-
+    
     @IBOutlet weak var TitleLabel: UILabel!
     @IBOutlet weak var StatusLabel: UILabel!
     @IBOutlet weak var ConnectButton: UIButton!
     @IBOutlet weak var DisconnectButton: UIButton!
     @IBOutlet weak var LaneNumberLabel: UILabel!
-    @IBOutlet weak var Lane1: UIButton!
-    @IBOutlet weak var Lane2: UIButton!
-    @IBOutlet weak var Lane3: UIButton!
-    @IBOutlet weak var Lane4: UIButton!
-    @IBOutlet weak var Lane5: UIButton!
-    @IBOutlet weak var Lane6: UIButton!
+    @IBOutlet weak var ReverseButton: UIButton!
+    
     var CurrentLane: Int = 1
     var reop = false
     var help = 10
+    var direction = true
     
     var connection = NetworkBuffer()
     var MessageBack: String = " "
     override func viewDidLoad() {
         super.viewDidLoad()
+        UIApplication.shared.isIdleTimerDisabled = false
     }
     /*Send Message example
  @IBAction func SendTheTextPushed(_ sender: Any) {
@@ -94,7 +92,19 @@ class ViewController: UIViewController {
         print(MessageBack)
     }
     
-    @IBAction func Lane1Pushed(_ sender: Any) {
+    @IBAction func ReverseButtonPushed(_ sender: Any) {
+        let text = "Reverse"
+        let sending = "\(text)".data(using: .ascii)!
+        if (ReverseButton.accessibilityHint == "Click to Reverse Direction. Current direction is clockwise."){
+            ReverseButton.accessibilityHint = "Click to Reverse Direction. Current direction is counter clockwise."
+        }
+        else{
+            ReverseButton.accessibilityHint = "Click to Reverse Direction. Current direction is clockwise."
+        }
+        _ = sending.withUnsafeBytes { connection.outputStream.write($0, maxLength: sending.count) }
+        
+    }
+    /*@IBAction func Lane1Pushed(_ sender: Any) {
         if(reop){
             print("Changed it")
         }
@@ -166,7 +176,7 @@ class ViewController: UIViewController {
         let text = "Quit"
         let sending = "\(text)".data(using: .ascii)!
         
-        _ = sending.withUnsafeBytes { connection.outputStream.write($0, maxLength: sending.count) }
+        //_ = sending.withUnsafeBytes { connection.outputStream.write($0, maxLength: sending.count) }
         lanes.append(Lane1)
         lanes.append(Lane2)
         lanes.append(Lane3)
@@ -186,7 +196,7 @@ class ViewController: UIViewController {
         let text = "Hello from lane 6"
         let sending = "\(text)".data(using: .ascii)!
         
-        _ = sending.withUnsafeBytes { connection.outputStream.write($0, maxLength: sending.count) }
+        //_ = sending.withUnsafeBytes { connection.outputStream.write($0, maxLength: sending.count) }
         lanes.append(Lane1)
         lanes.append(Lane2)
         lanes.append(Lane3)
@@ -199,7 +209,7 @@ class ViewController: UIViewController {
             lanes[i].isEnabled = true;
             lanes[i].accessibilityHint = "Push to run in lane \(i + 1), currently set to run in lane \(CurrentLane)"
         }
-    }
+    }*/
 }
 
 extension ViewController: NetworkBufferDelegate{
