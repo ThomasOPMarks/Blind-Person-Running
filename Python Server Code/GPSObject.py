@@ -33,7 +33,7 @@ class GPSCoord:
     def __eq__(self, other):
         return self.timeStamp == other.timeStamp
     def __mul__(self, other):
-        return sqrt((self.x - other.x) ** 2 + (self.y - other.y) ** 2 + (self.z - other.z) ** 2)
+        return sqrt((self.x - other.x) ** 2 + (self.y - other.y) ** 2)
     def __pow__(self, other):
         return [(self * other) / abs(self.timeStamp - other.timeStamp), abs(self.timeStamp - other.timeStamp)]
 
@@ -56,15 +56,24 @@ class Track:
         self.xOffset = 0
         self.yOffset = 0
         self.r = 0
+        self.i = 0
+        self.distance = 0
     def update(self):
+        currentGPS = GPSCoord([0,0,0,0, 0])
         while True:
+            self.i = self.i + 1
+            secondGPS = currentGPS
             currentGPS = self.GPSQueue.get()
             if(currentGPS.number == -1):
                 self.SendQueue.put("Quit")
                 self.PWMQueue.put(PWMPair(-1,-1))
                 break
             else:
+                self.distance = self.distance + currentGPS * secondGPS
                 self.__updateSelf(currentGPS, self.PWMQueue)
+                if self.i % 15 == 0:
+                    self.i = 0
+                    self.SendQueue.put(str(round(self.distance/1000, 2)))
         print('Broke out of update thread')
                 
                 
