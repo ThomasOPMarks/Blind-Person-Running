@@ -18,6 +18,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var DisconnectButton: UIButton!
     @IBOutlet weak var LaneNumberLabel: UILabel!
     @IBOutlet weak var ReverseButton: UIButton!
+    @IBOutlet weak var DistanceLabel: UILabel!
     
     var CurrentLane: Int = 1
     var reop = false
@@ -89,7 +90,8 @@ class ViewController: UIViewController {
     
     func SendBackText(returnString: String){
         MessageBack = returnString
-        print(MessageBack)
+        DistanceLabel.text = "Distance: " + MessageBack + "km"
+        DistanceLabel.accessibilityHint = "Displays the current run distance, which is currently " + MessageBack + " km"
     }
     
     @IBAction func ReverseButtonPushed(_ sender: Any) {
@@ -104,112 +106,6 @@ class ViewController: UIViewController {
         _ = sending.withUnsafeBytes { connection.outputStream.write($0, maxLength: sending.count) }
         
     }
-    /*@IBAction func Lane1Pushed(_ sender: Any) {
-        if(reop){
-            print("Changed it")
-        }
-        print(help)
-        var lanes = [UIButton]()
-        lanes.append(Lane1)
-        lanes.append(Lane2)
-        lanes.append(Lane3)
-        lanes.append(Lane4)
-        lanes.append(Lane5)
-        lanes.append(Lane6)
-        CurrentLane = 1
-        LaneNumberLabel.text = "Lane Number: \(CurrentLane)"
-        for i in 0...5{
-            lanes[i].isEnabled = true;
-            lanes[i].accessibilityHint = "Push to run in lane \(i + 1), currently set to run in lane \(CurrentLane)"
-        }
-    }
-    
-    @IBAction func Lane2Pushed(_ sender: Any) {
-        var lanes = [UIButton]()
-        lanes.append(Lane1)
-        lanes.append(Lane2)
-        lanes.append(Lane3)
-        lanes.append(Lane4)
-        lanes.append(Lane5)
-        lanes.append(Lane6)
-        CurrentLane = 2
-        LaneNumberLabel.text = "Lane Number: \(CurrentLane)"
-        for i in 0...5{
-            lanes[i].isEnabled = true;
-            lanes[i].accessibilityHint = "Push to run in lane \(i + 1), currently set to run in lane \(CurrentLane)"
-        }
-    }
-    
-    @IBAction func Lane3Pushed(_ sender: Any) {
-        var lanes = [UIButton]()
-        lanes.append(Lane1)
-        lanes.append(Lane2)
-        lanes.append(Lane3)
-        lanes.append(Lane4)
-        lanes.append(Lane5)
-        lanes.append(Lane6)
-        CurrentLane = 3
-        LaneNumberLabel.text = "Lane Number: \(CurrentLane)"
-        for i in 0...5{
-            lanes[i].isEnabled = true;
-            lanes[i].accessibilityHint = "Push to run in lane \(i + 1), currently set to run in lane \(CurrentLane)"
-        }
-    }
-    
-    @IBAction func Lane4Pushed(_ sender: Any) {
-        var lanes = [UIButton]()
-        lanes.append(Lane1)
-        lanes.append(Lane2)
-        lanes.append(Lane3)
-        lanes.append(Lane4)
-        lanes.append(Lane5)
-        lanes.append(Lane6)
-        CurrentLane = 4
-        LaneNumberLabel.text = "Lane Number: \(CurrentLane)"
-        for i in 0...5{
-            lanes[i].isEnabled = true;
-            lanes[i].accessibilityHint = "Push to run in lane \(i + 1), currently set to run in lane \(CurrentLane)"
-        }
-    }
-    @IBAction func Lane5Pushed(_ sender: Any) {
-        var lanes = [UIButton]()
-        let text = "Quit"
-        let sending = "\(text)".data(using: .ascii)!
-        
-        //_ = sending.withUnsafeBytes { connection.outputStream.write($0, maxLength: sending.count) }
-        lanes.append(Lane1)
-        lanes.append(Lane2)
-        lanes.append(Lane3)
-        lanes.append(Lane4)
-        lanes.append(Lane5)
-        lanes.append(Lane6)
-        CurrentLane = 5
-        LaneNumberLabel.text = "Lane Number: \(CurrentLane)"
-        for i in 0...5{
-            lanes[i].isEnabled = true;
-            lanes[i].accessibilityHint = "Push to run in lane \(i + 1), currently set to run in lane \(CurrentLane)"
-        }
-    }
-    
-    @IBAction func Lane6Pushed(_ sender: Any) {
-        var lanes = [UIButton]()
-        let text = "Hello from lane 6"
-        let sending = "\(text)".data(using: .ascii)!
-        
-        //_ = sending.withUnsafeBytes { connection.outputStream.write($0, maxLength: sending.count) }
-        lanes.append(Lane1)
-        lanes.append(Lane2)
-        lanes.append(Lane3)
-        lanes.append(Lane4)
-        lanes.append(Lane5)
-        lanes.append(Lane6)
-        CurrentLane = 6
-        LaneNumberLabel.text = "Lane Number: \(CurrentLane)"
-        for i in 0...5{
-            lanes[i].isEnabled = true;
-            lanes[i].accessibilityHint = "Push to run in lane \(i + 1), currently set to run in lane \(CurrentLane)"
-        }
-    }*/
 }
 
 extension ViewController: NetworkBufferDelegate{
