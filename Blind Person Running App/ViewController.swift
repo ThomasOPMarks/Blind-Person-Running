@@ -18,6 +18,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var DisconnectButton: UIButton!
     @IBOutlet weak var LaneNumberLabel: UILabel!
     @IBOutlet weak var ReverseButton: UIButton!
+    @IBOutlet weak var DistanceLabel: UILabel!
     
     var CurrentLane: Int = 1
     var reop = false
@@ -89,7 +90,8 @@ class ViewController: UIViewController {
     
     func SendBackText(returnString: String){
         MessageBack = returnString
-        print(MessageBack)
+        DistanceLabel.text = "Distance: " + MessageBack + "km"
+        DistanceLabel.accessibilityHint = "Displays the current run distance, which is currently " + MessageBack + " km"
     }
     
     @IBAction func ReverseButtonPushed(_ sender: Any) {

@@ -63,6 +63,13 @@
                                     <action selector="ReverseButtonPushed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="9fE-4j-kyQ"/>
                                 </connections>
                             </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Distance: 0" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IoT-GX-zjH">
+                                <rect key="frame" x="119.5" y="435" width="137" height="34"/>
+                                <accessibility key="accessibilityConfiguration" hint="Displays the current run distance, which is currently 0 miles" label="Run Distance"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="28"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
@@ -76,7 +83,9 @@
                             <constraint firstItem="4XG-ws-Rwh" firstAttribute="top" secondItem="yEK-iS-gpY" secondAttribute="bottom" constant="20" id="jXT-HR-jZt"/>
                             <constraint firstItem="yTk-79-vSe" firstAttribute="top" secondItem="4XG-ws-Rwh" secondAttribute="bottom" constant="21" id="k5M-Nl-LrY"/>
                             <constraint firstItem="y6o-X3-iki" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="50" id="ta9-Ne-EgJ"/>
+                            <constraint firstItem="IoT-GX-zjH" firstAttribute="top" secondItem="LMy-Kz-ihO" secondAttribute="bottom" constant="21.5" id="tu7-i3-J86"/>
                             <constraint firstItem="4XG-ws-Rwh" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="vFR-IS-VbA"/>
+                            <constraint firstItem="IoT-GX-zjH" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="vJB-Oy-zAs"/>
                             <constraint firstItem="y6o-X3-iki" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="x0z-ia-SpV"/>
                             <constraint firstItem="xi4-zj-y89" firstAttribute="top" secondItem="yTk-79-vSe" secondAttribute="bottom" constant="14.5" id="zdp-sH-Yys"/>
                         </constraints>
@@ -85,6 +94,7 @@
                     <connections>
                         <outlet property="ConnectButton" destination="xi4-zj-y89" id="n4h-VQ-Rmv"/>
                         <outlet property="DisconnectButton" destination="LMy-Kz-ihO" id="8cr-YS-sf5"/>
+                        <outlet property="DistanceLabel" destination="IoT-GX-zjH" id="THK-k6-fb2"/>
                         <outlet property="LaneNumberLabel" destination="4XG-ws-Rwh" id="C24-UX-AUa"/>
                         <outlet property="ReverseButton" destination="yTk-79-vSe" id="eeE-Ve-rZB"/>
                         <outlet property="StatusLabel" destination="yEK-iS-gpY" id="euy-UB-8Bc"/>
