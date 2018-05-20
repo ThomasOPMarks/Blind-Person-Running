@@ -39,11 +39,12 @@ class GPSCoord:
 
 
 class Track:
-    def __init__(self, lane, GPSQueue, SendQueue, PWMQueue, inQueue, outQueue):
+    def __init__(self, lane, GPSQueue, SendQueue, PWMQueue, Reverse):
         self.GPSQueue = GPSQueue
         self.SendQueue = SendQueue
         self.straight = 84.39
         self.trackWidth = 1.22
+        self.Radius = 36.50
         self.innerRadius = 36.50 + self.trackWidth * (lane - 1)
         self.outterRadius = self.innerRadius + self.trackWidth
         self.topOfTop = - self.trackWidth * lane
@@ -51,57 +52,111 @@ class Track:
         self.topOfBot = 73 * self.trackWidth * (lane - 1)
         self.botOfBot = self.topOfBot + self.trackWidth
         self.PWMQueue = PWMQueue
-        self.lastLeft = -1
-        self.lastRight = -1
-        self.inQueue = inQueue
-        self.outQueue = outQueue
+        self.Reverse = Reverse
+        self.xOffset = 0
+        self.yOffset = 0
+        self.r = 0
     def update(self):
         while True:
             currentGPS = self.GPSQueue.get()
-            self.outQueue[0] += 1
-            print("NUMBER OF ITEMS IN THE GPS QUEUE: " + str(self.inQueue[0] - self.outQueue[0]))
             if(currentGPS.number == -1):
                 self.SendQueue.put("Quit")
                 self.PWMQueue.put(PWMPair(-1,-1))
                 break
             else:
                 self.__updateSelf(currentGPS, self.PWMQueue)
-                self.inQueue[1] += 1
         print('Broke out of update thread')
                 
                 
                 
-    def __updateSelf(self, GPS, PWMQueue):
+    def __updateSelf(self, currentGPS, PWMQueue):
         #TODO Make actual logic via test
-        if(GPS.y > 3.5):
-            left = 100
-            right = 0
-        elif(GPS.y < 2.5):
-            left = 0
-            right = 100
-        else:
-            left = 0
-            right = 0
-        if (self.lastLeft != left or self.lastRight != right):
+        section = self.sectionGetter(currentGPS)
+        x = currentGPS.x
+        y = currentGPS.y
+#        #THIS IS FOR DEMO FRIDAY THE 18TH!
+#        if(currentGPS.y < -1.96):
+#            left = 100
+#            right = 0
+#            print('Right buzz')
+#            f = open('dataouts.txt','a')
+#            f.write('Right buzz\n')
+#            f.close()
+#        elif(currentGPS.y > -0.51): 
+#            left = 0
+#            right = 100
+#            print('Left buzz')
+#            f = open('dataouts.txt','a')
+#            f.write('Left buzz\n')
+#            f.close()
+#        else:
+#            left = 0
+#            right = 0
+#        if self.Reverse[0]:
+#            PWMQueue.put(PWMPair(left, right))
+#        else:
+#            PWMQueue.put(PWMPair(right, left))
+        
+        #FOR NORMAL WHOLE TRACK
+        if section == Section.TOP:
+            if y - self.yOffset > -.11 - self.r * self.trackWidth :
+                left = 100
+                right = 0
+            elif y - self.yOffset < -1.11 - self.r * self.trackWidth:
+                right = 100
+                left = 0
+            else:
+                left = 0
+                right = 0
+        elif section == Section.BOT:
+            if y - self.yOffset < 73.0 + 0.11 + self.r * self.trackWidth:
+                left = 100
+                right = 0
+            elif y - self.yOffset > 73.0 + 1.11 + self.r * self.trackWidth:
+                right = 100
+                left = 0
+            else:
+                left = 0
+                right = 0
+        elif section == Section.LEFT:
+            distance = sqrt((x - self.xOffset) ** 2 + (y - self.yOffset - self.Radius))
+            if distance < self.Radius + .11:
+                left = 100
+                right = 0
+            elif distance > self.Radius + 1.11:
+                right = 100
+                left = 0
+            else:
+                left = 0
+                right = 0
+        elif section == Section.RIGHT:
+            distance = sqrt((x - self.xOffset - self.straight) ** 2 + (y - self.yOffset - self.Radius))
+            if distance < self.Radius + .11:
+                left = 100
+                right = 0
+            elif distance > self.Radius + 1.11:
+                right = 100
+                left = 0
+            else:
+                left = 0
+                right = 0
+        if self.Reverse[0]:
             PWMQueue.put(PWMPair(left, right))
-        self.lastLeft = left
-        self.lastRight = right
-            
-        return 0
+        else:
+            PWMQueue.put(PWMPair(right, left))
     
     #Determines what section of the track the user is in
     def sectionGetter(self, coord):
-        x = coord.x
-        y = coord.y
-        if(x > 0 and x < self.straight):
-            if(y < self.innerRadius):
-                return Section.TOP
-            else:
-                return Section.BOT
-        if x < 0:
+        x = coord.x 
+        y = coord.y 
+        if(x - self.xOffset < 0):
             return Section.LEFT
-        else:
+        elif x - self.xOffset > self.straight:
             return Section.RIGHT
+        elif y - self.yOffset > self.Radius:
+            return Section.BOT
+        else:
+            return Section.TOP
                 
                 
                 
@@ -109,23 +164,7 @@ class Track:
                 
 
 
-#Determines if the user is in the lane (if not most powerful buzz is used)
-def sectionChecker(coord, section, track):
-    x = coord.x
-    y = coord.y
-    if(section is Section.TOP):
-        if(y < track.topOfTop and y > track.botOfTop):
-            return True
-        else:
-            return False
-    elif(section is Section.BOT):
-        if(y > track.topOfBot and y < track.botOfBot):
-            return True
-        else:
-            return False
-    #TODO Make the other cases
-    #
-    return None
+
 
 #Used to make sure the correct angle is returned from the two coordinates passed
 def bearingFinder(coord1, coord2):
@@ -139,8 +178,7 @@ def bearingFinder(coord1, coord2):
         return atan((y2 - y1)/(x2 - x1)) - pi
     
     
-    
-    
+
     
     
     

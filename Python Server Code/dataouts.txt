@@ -1,0 +1,4188 @@
+Right buzz
+Marvel = [97, 35.544, -3.357, 1.85, 944555]
+Right buzz
+Marvel = [97, 35.545, -3.364, 1.85, 944733]
+Right buzz
+Marvel = [97, 35.545, -3.364, 1.85, 944733]
+Right buzz
+Marvel = [97, 35.535, -3.36, 1.85, 945067]
+Right buzz
+Marvel = [97, 35.538, -3.364, 1.85, 945220]
+Right buzz
+Marvel = [97, 35.536, -3.362, 1.85, 945387]
+Right buzz
+Marvel = [97, 35.536, -3.357, 1.85, 945554]
+Right buzz
+Marvel = [97, 35.565, -3.376, 1.85, 945736]
+Right buzz
+Marvel = [97, 35.569, -3.376, 1.85, 945902]
+Right buzz
+Marvel = [97, 35.581, -3.379, 1.85, 946068]
+Right buzz
+Marvel = [97, 35.572, -3.366, 1.85, 946224]
+Right buzz
+Marvel = [97, 35.572, -3.366, 1.85, 946224]
+Right buzz
+Marvel = [97, 35.551, -3.342, 1.85, 946389]
+Right buzz
+Marvel = [97, 35.551, -3.335, 1.85, 946555]
+Right buzz
+Marvel = [97, 35.548, -3.327, 1.85, 946735]
+Right buzz
+Marvel = [97, 35.548, -3.327, 1.85, 946735]
+Right buzz
+Marvel = [97, 35.563, -3.336, 1.85, 946915]
+Right buzz
+Marvel = [97, 35.561, -3.336, 1.85, 947236]
+Right buzz
+Marvel = [97, 35.561, -3.336, 1.85, 947236]
+Right buzz
+Marvel = [97, 35.559, -3.336, 1.85, 947403]
+Right buzz
+Marvel = [97, 35.559, -3.34, 1.85, 947747]
+Right buzz
+Marvel = [97, 35.563, -3.339, 1.85, 947914]
+Right buzz
+Marvel = [97, 35.569, -3.339, 1.85, 948081]
+Right buzz
+Marvel = [97, 35.573, -3.335, 1.85, 948234]
+Right buzz
+Marvel = [97, 35.573, -3.335, 1.85, 948234]
+Right buzz
+Marvel = [97, 35.579, -3.334, 1.85, 948401]
+Right buzz
+Marvel = [97, 35.349, -3.072, 1.85, 948568]
+Right buzz
+Marvel = [97, 35.348, -3.07, 1.85, 948750]
+Right buzz
+Marvel = [97, 35.35, -3.07, 1.85, 948916]
+Right buzz
+Marvel = [97, 35.349, -3.071, 1.85, 949082]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Right buzz
+Marvel = [97, 35.453, -3.251, 1.85, 959760]
+Right buzz
+Marvel = [97, 35.446, -3.245, 1.85, 959926]
+Right buzz
+Marvel = [97, 35.442, -3.239, 1.85, 960093]
+Right buzz
+Marvel = [97, 35.435, -3.231, 1.85, 960247]
+Right buzz
+Marvel = [97, 35.515, -3.308, 1.85, 960413]
+Right buzz
+Marvel = [97, 35.515, -3.308, 1.85, 960413]
+Right buzz
+Marvel = [97, 35.515, -3.308, 1.85, 960413]
+Right buzz
+Marvel = [97, 35.512, -3.303, 1.85, 960580]
+Right buzz
+Marvel = [97, 35.512, -3.303, 1.85, 960580]
+Right buzz
+Marvel = [97, 35.512, -3.303, 1.85, 960580]
+Right buzz
+Marvel = [97, 35.581, -3.242, 1.85, 961250]
+Right buzz
+Marvel = [97, 35.581, -3.242, 1.85, 961250]
+Right buzz
+Marvel = [97, 35.581, -3.242, 1.85, 961250]
+Right buzz
+Marvel = [97, 35.581, -3.242, 1.85, 961250]
+Right buzz
+Marvel = [97, 35.581, -3.242, 1.85, 961250]
+Right buzz
+Marvel = [97, 35.581, -3.242, 1.85, 961250]
+Right buzz
+Marvel = [97, 35.581, -3.242, 1.85, 961250]
+Right buzz
+Marvel = [97, 35.581, -3.242, 1.85, 961250]
+Right buzz
+Marvel = [97, 35.581, -3.242, 1.85, 961250]
+Right buzz
+Marvel = [97, 35.581, -3.242, 1.85, 961250]
+Right buzz
+Marvel = [97, 36.623, -3.235, 1.85, 962763]
+Right buzz
+Marvel = [97, 36.778, -3.222, 1.85, 962929]
+Right buzz
+Marvel = [97, 36.955, -3.211, 1.85, 963096]
+Right buzz
+Marvel = [97, 37.157, -3.197, 1.85, 963261]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 37.373, -3.186, 1.85, 963427]
+Right buzz
+Marvel = [97, 50.289, -4.087, 1.85, 968766]
+Right buzz
+Marvel = [97, 50.724, -4.057, 1.85, 968946]
+Right buzz
+Marvel = [97, 51.156, -4.02, 1.85, 969113]
+Right buzz
+Marvel = [97, 51.577, -3.983, 1.85, 969280]
+Right buzz
+Marvel = [97, 52.032, -3.921, 1.85, 969434]
+Right buzz
+Marvel = [97, 52.032, -3.921, 1.85, 969434]
+Right buzz
+Marvel = [97, 52.032, -3.921, 1.85, 969434]
+Right buzz
+Marvel = [97, 52.032, -3.921, 1.85, 969434]
+Right buzz
+Marvel = [97, 52.032, -3.921, 1.85, 969434]
+Right buzz
+Marvel = [97, 52.032, -3.921, 1.85, 969434]
+Right buzz
+Marvel = [97, 52.032, -3.921, 1.85, 969434]
+Right buzz
+Marvel = [97, 52.032, -3.921, 1.85, 969434]
+Right buzz
+Marvel = [97, 52.032, -3.921, 1.85, 969434]
+Right buzz
+Marvel = [97, 55.677, -3.535, 1.85, 970770]
+Right buzz
+Marvel = [97, 56.106, -3.501, 1.85, 970948]
+Right buzz
+Marvel = [97, 56.538, -3.475, 1.85, 971129]
+Right buzz
+Marvel = [97, 56.968, -3.453, 1.85, 971295]
+Right buzz
+Marvel = [97, 57.394, -3.432, 1.85, 971445]
+Right buzz
+Marvel = [97, 57.394, -3.432, 1.85, 971445]
+Right buzz
+Marvel = [97, 57.394, -3.432, 1.85, 971445]
+Right buzz
+Marvel = [97, 57.394, -3.432, 1.85, 971445]
+Right buzz
+Marvel = [97, 57.394, -3.432, 1.85, 971445]
+Right buzz
+Marvel = [97, 57.394, -3.432, 1.85, 971445]
+Right buzz
+Marvel = [97, 57.394, -3.432, 1.85, 971445]
+Right buzz
+Marvel = [97, 57.394, -3.432, 1.85, 971445]
+Right buzz
+Marvel = [97, 60.63, -3.455, 1.85, 972780]
+Right buzz
+Marvel = [97, 61.021, -3.457, 1.85, 972963]
+Right buzz
+Marvel = [97, 61.021, -3.457, 1.85, 972963]
+Right buzz
+Marvel = [97, 61.411, -3.455, 1.85, 973130]
+Right buzz
+Marvel = [97, 61.792, -3.442, 1.85, 973297]
+Right buzz
+Marvel = [97, 62.168, -3.428, 1.85, 973451]
+Right buzz
+Marvel = [97, 62.536, -3.412, 1.85, 973617]
+Right buzz
+Marvel = [97, 62.536, -3.412, 1.85, 973617]
+Right buzz
+Marvel = [97, 63.235, -3.379, 1.85, 973961]
+Right buzz
+Marvel = [97, 63.559, -3.371, 1.85, 974128]
+Right buzz
+Marvel = [97, 63.559, -3.371, 1.85, 974128]
+Right buzz
+Marvel = [97, 63.559, -3.371, 1.85, 974128]
+Right buzz
+Marvel = [97, 63.871, -3.37, 1.85, 974295]
+Right buzz
+Marvel = [97, 64.209, -3.398, 1.85, 974616]
+Right buzz
+Marvel = [97, 64.518, -3.432, 1.85, 974782]
+Right buzz
+Marvel = [97, 64.518, -3.432, 1.85, 974782]
+Right buzz
+Marvel = [97, 64.99, -3.508, 1.85, 975131]
+Right buzz
+Marvel = [97, 65.107, -3.53, 1.85, 975296]
+Right buzz
+Marvel = [97, 65.179, -3.56, 1.85, 975452]
+Right buzz
+Marvel = [97, 65.203, -3.611, 1.85, 975618]
+Right buzz
+Marvel = [97, 65.17, -3.689, 1.85, 975784]
+Right buzz
+Marvel = [97, 65.17, -3.689, 1.85, 975784]
+Right buzz
+Marvel = [97, 65.17, -3.689, 1.85, 975784]
+Right buzz
+Marvel = [97, 65.17, -3.689, 1.85, 975784]
+Right buzz
+Marvel = [97, 65.17, -3.689, 1.85, 975784]
+Right buzz
+Marvel = [97, 65.17, -3.689, 1.85, 975784]
+Right buzz
+Marvel = [97, 65.17, -3.689, 1.85, 975784]
+Right buzz
+Marvel = [97, 65.17, -3.689, 1.85, 975784]
+Right buzz
+Marvel = [97, 65.17, -3.689, 1.85, 975784]
+Right buzz
+Marvel = [97, 65.17, -3.689, 1.85, 975784]
+Right buzz
+Marvel = [97, 65.17, -3.689, 1.85, 975784]
+Right buzz
+Marvel = [97, 65.17, -3.689, 1.85, 975784]
+Right buzz
+Marvel = [97, 65.17, -3.689, 1.85, 975784]
+Right buzz
+Marvel = [97, 65.17, -3.689, 1.85, 975784]
+Right buzz
+Marvel = [97, 65.17, -3.689, 1.85, 975784]
+Right buzz
+Marvel = [97, 65.17, -3.689, 1.85, 975784]
+Right buzz
+Marvel = [97, 65.17, -3.689, 1.85, 975784]
+Right buzz
+Marvel = [97, 65.17, -3.689, 1.85, 975784]
+Right buzz
+Marvel = [97, 65.17, -3.689, 1.85, 975784]
+Right buzz
+Marvel = [97, 60.709, -4.187, 1.85, 978622]
+Right buzz
+Marvel = [97, 60.243, -4.192, 1.85, 978788]
+Right buzz
+Marvel = [97, 59.753, -4.179, 1.85, 978967]
+Right buzz
+Marvel = [97, 59.253, -4.18, 1.85, 979147]
+Right buzz
+Marvel = [97, 58.721, -4.16, 1.85, 979314]
+Right buzz
+Marvel = [97, 58.721, -4.16, 1.85, 979314]
+Right buzz
+Marvel = [97, 58.721, -4.16, 1.85, 979314]
+Right buzz
+Marvel = [97, 58.721, -4.16, 1.85, 979314]
+Right buzz
+Marvel = [97, 58.721, -4.16, 1.85, 979314]
+Right buzz
+Marvel = [97, 58.721, -4.16, 1.85, 979314]
+Right buzz
+Marvel = [97, 58.721, -4.16, 1.85, 979314]
+Right buzz
+Marvel = [97, 54.737, -3.898, 1.85, 980466]
+Right buzz
+Marvel = [97, 54.737, -3.898, 1.85, 980466]
+Right buzz
+Marvel = [97, 54.737, -3.898, 1.85, 980466]
+Right buzz
+Marvel = [97, 54.737, -3.898, 1.85, 980466]
+Right buzz
+Marvel = [97, 54.737, -3.898, 1.85, 980466]
+Right buzz
+Marvel = [97, 54.737, -3.898, 1.85, 980466]
+Right buzz
+Marvel = [97, 54.737, -3.898, 1.85, 980466]
+Right buzz
+Marvel = [97, 54.737, -3.898, 1.85, 980466]
+Right buzz
+Marvel = [97, 54.737, -3.898, 1.85, 980466]
+Right buzz
+Marvel = [97, 54.737, -3.898, 1.85, 980466]
+Right buzz
+Marvel = [97, 54.737, -3.898, 1.85, 980466]
+Right buzz
+Marvel = [97, 54.737, -3.898, 1.85, 980466]
+Right buzz
+Marvel = [97, 54.737, -3.898, 1.85, 980466]
+Right buzz
+Marvel = [97, 48.871, -3.328, 1.85, 982147]
+Right buzz
+Marvel = [97, 46.896, -3.231, 1.85, 982634]
+Right buzz
+Marvel = [97, 46.896, -3.231, 1.85, 982634]
+Right buzz
+Marvel = [97, 46.896, -3.231, 1.85, 982801]
+Right buzz
+Marvel = [97, 46.896, -3.231, 1.85, 982801]
+Right buzz
+Marvel = [97, 46.896, -3.231, 1.85, 982801]
+Right buzz
+Marvel = [97, 46.896, -3.231, 1.85, 982801]
+Right buzz
+Marvel = [97, 46.896, -3.231, 1.85, 982801]
+Right buzz
+Marvel = [97, 46.896, -3.231, 1.85, 982801]
+Right buzz
+Marvel = [97, 46.896, -3.231, 1.85, 982801]
+Right buzz
+Marvel = [97, 46.896, -3.231, 1.85, 982801]
+Right buzz
+Marvel = [97, 40.214, -3.491, 1.85, 984152]
+Right buzz
+Marvel = [97, 39.533, -3.516, 1.85, 984306]
+Right buzz
+Marvel = [97, 38.857, -3.541, 1.85, 984473]
+Right buzz
+Marvel = [97, 38.857, -3.541, 1.85, 984473]
+Right buzz
+Marvel = [97, 38.182, -3.569, 1.85, 984639]
+Right buzz
+Marvel = [97, 37.511, -3.597, 1.85, 984817]
+Right buzz
+Marvel = [97, 37.511, -3.597, 1.85, 984817]
+Right buzz
+Marvel = [97, 37.511, -3.597, 1.85, 984817]
+Right buzz
+Marvel = [97, 37.511, -3.597, 1.85, 984817]
+Right buzz
+Marvel = [97, 37.511, -3.597, 1.85, 984817]
+Right buzz
+Marvel = [97, 37.511, -3.597, 1.85, 984817]
+Right buzz
+Marvel = [97, 37.511, -3.597, 1.85, 984817]
+Right buzz
+Marvel = [97, 37.511, -3.597, 1.85, 984817]
+Right buzz
+Marvel = [97, 37.511, -3.597, 1.85, 984817]
+Right buzz
+Marvel = [97, 37.511, -3.597, 1.85, 984817]
+Right buzz
+Marvel = [97, 30.528, -3.539, 1.85, 986473]
+Right buzz
+Marvel = [97, 29.867, -3.554, 1.85, 986652]
+Right buzz
+Marvel = [97, 29.209, -3.584, 1.85, 986819]
+Right buzz
+Marvel = [97, 28.548, -3.608, 1.85, 986989]
+Right buzz
+Marvel = [97, 27.885, -3.674, 1.85, 987139]
+Right buzz
+Marvel = [97, 27.885, -3.674, 1.85, 987139]
+Right buzz
+Marvel = [97, 27.885, -3.674, 1.85, 987139]
+Right buzz
+Marvel = [97, 27.885, -3.674, 1.85, 987139]
+Right buzz
+Marvel = [97, 27.885, -3.674, 1.85, 987139]
+Right buzz
+Marvel = [97, 27.885, -3.674, 1.85, 987139]
+Right buzz
+Marvel = [97, 27.885, -3.674, 1.85, 987139]
+Right buzz
+Marvel = [97, 27.885, -3.674, 1.85, 987139]
+Right buzz
+Marvel = [97, 27.885, -3.674, 1.85, 987139]
+Right buzz
+Marvel = [97, 22.496, -4.211, 1.85, 988474]
+Right buzz
+Marvel = [97, 21.841, -4.242, 1.85, 988654]
+Right buzz
+Marvel = [97, 21.191, -4.258, 1.85, 988824]
+Right buzz
+Marvel = [97, 20.537, -4.255, 1.85, 988990]
+Right buzz
+Marvel = [97, 19.884, -4.224, 1.85, 989141]
+Right buzz
+Marvel = [97, 19.231, -4.187, 1.85, 989307]
+Right buzz
+Marvel = [97, 19.231, -4.187, 1.85, 989307]
+Right buzz
+Marvel = [97, 19.231, -4.187, 1.85, 989307]
+Right buzz
+Marvel = [97, 19.231, -4.187, 1.85, 989307]
+Right buzz
+Marvel = [97, 19.231, -4.187, 1.85, 989307]
+Right buzz
+Marvel = [97, 19.231, -4.187, 1.85, 989307]
+Right buzz
+Marvel = [97, 19.231, -4.187, 1.85, 989307]
+Right buzz
+Marvel = [97, 19.231, -4.187, 1.85, 989307]
+Right buzz
+Marvel = [97, 19.231, -4.187, 1.85, 989307]
+Right buzz
+Marvel = [97, 14.363, -3.69, 1.85, 990659]
+Right buzz
+Marvel = [97, 14.363, -3.69, 1.85, 990659]
+Right buzz
+Marvel = [97, 14.363, -3.69, 1.85, 990659]
+Right buzz
+Marvel = [97, 12.688, -3.492, 1.85, 991146]
+Right buzz
+Marvel = [97, 12.688, -3.492, 1.85, 991146]
+Right buzz
+Marvel = [97, 12.146, -3.439, 1.85, 991313]
+Right buzz
+Marvel = [97, 11.604, -3.393, 1.85, 991657]
+Right buzz
+Marvel = [97, 10.47, -3.201, 1.85, 991824]
+Right buzz
+Marvel = [97, 10.47, -3.201, 1.85, 991824]
+Right buzz
+Marvel = [97, 10.47, -3.201, 1.85, 991824]
+Right buzz
+Marvel = [97, 10.47, -3.201, 1.85, 991824]
+Right buzz
+Marvel = [97, 10.47, -3.201, 1.85, 991824]
+Right buzz
+Marvel = [97, 10.47, -3.201, 1.85, 991824]
+Right buzz
+Marvel = [97, 10.47, -3.201, 1.85, 991824]
+Right buzz
+Marvel = [97, 10.47, -3.201, 1.85, 991824]
+Right buzz
+Marvel = [97, 10.47, -3.201, 1.85, 991824]
+Right buzz
+Marvel = [97, 10.47, -3.201, 1.85, 991824]
+Right buzz
+Marvel = [97, 10.47, -3.201, 1.85, 991824]
+Right buzz
+Marvel = [97, 10.47, -3.201, 1.85, 991824]
+Right buzz
+Marvel = [97, 5.696, -2.841, 1.85, 993492]
+Right buzz
+Marvel = [97, 5.274, -2.852, 1.85, 993659]
+Right buzz
+Marvel = [97, 4.866, -2.865, 1.85, 993826]
+Right buzz
+Marvel = [97, 4.493, -2.894, 1.85, 993979]
+Right buzz
+Marvel = [97, 4.143, -2.922, 1.85, 994146]
+Right buzz
+Marvel = [97, 4.143, -2.922, 1.85, 994146]
+Right buzz
+Marvel = [97, 3.483, -2.992, 1.85, 994495]
+Right buzz
+Marvel = [97, 3.483, -2.992, 1.85, 994495]
+Right buzz
+Marvel = [97, 2.892, -3.062, 1.85, 994827]
+Right buzz
+Marvel = [97, 2.892, -3.062, 1.85, 994827]
+Right buzz
+Marvel = [97, 2.63, -3.1, 1.85, 994982]
+Right buzz
+Marvel = [97, 2.384, -3.137, 1.85, 995149]
+Right buzz
+Marvel = [97, 2.161, -3.19, 1.85, 995315]
+Right buzz
+Marvel = [97, 2.161, -3.19, 1.85, 995315]
+Right buzz
+Marvel = [97, 2.161, -3.19, 1.85, 995315]
+Right buzz
+Marvel = [97, 2.161, -3.19, 1.85, 995315]
+Right buzz
+Marvel = [97, 2.161, -3.19, 1.85, 995315]
+Right buzz
+Marvel = [97, 2.161, -3.19, 1.85, 995315]
+Right buzz
+Marvel = [97, 2.161, -3.19, 1.85, 995315]
+Right buzz
+Marvel = [97, 2.161, -3.19, 1.85, 995315]
+Right buzz
+Marvel = [97, 2.161, -3.19, 1.85, 995315]
+Right buzz
+Marvel = [97, 2.161, -3.19, 1.85, 995315]
+Right buzz
+Marvel = [97, 2.161, -3.19, 1.85, 995315]
+Right buzz
+Marvel = [97, 2.161, -3.19, 1.85, 995315]
+Right buzz
+Marvel = [97, 2.161, -3.19, 1.85, 995315]
+Right buzz
+Marvel = [97, 2.161, -3.19, 1.85, 995315]
+Right buzz
+Marvel = [97, 2.161, -3.19, 1.85, 995315]
+Right buzz
+Marvel = [97, 2.161, -3.19, 1.85, 995315]
+Right buzz
+Marvel = [97, 2.161, -3.19, 1.85, 995315]
+Right buzz
+Marvel = [97, 4.598, -4.235, 1.85, 997987]
+Right buzz
+Marvel = [97, 5.065, -4.234, 1.85, 998153]
+Right buzz
+Marvel = [97, 5.552, -4.224, 1.85, 998320]
+Right buzz
+Marvel = [97, 5.552, -4.224, 1.85, 998320]
+Right buzz
+Marvel = [97, 5.552, -4.224, 1.85, 998320]
+Right buzz
+Marvel = [97, 6.051, -4.219, 1.85, 998498]
+Right buzz
+Marvel = [97, 6.688, -4.225, 1.85, 998831]
+Right buzz
+Marvel = [97, 6.688, -4.225, 1.85, 998831]
+Right buzz
+Marvel = [97, 6.688, -4.225, 1.85, 998831]
+Right buzz
+Marvel = [97, 8.673, -4.277, 1.85, 999318]
+Right buzz
+Marvel = [97, 9.201, -4.305, 1.85, 999500]
+Right buzz
+Marvel = [97, 9.201, -4.305, 1.85, 999500]
+Right buzz
+Marvel = [97, 9.736, -4.318, 1.85, 999666]
+Right buzz
+Marvel = [97, 10.336, -4.359, 1.85, 999833]
+Right buzz
+Marvel = [97, 10.94, -4.434, 1.85, 999988]
+Right buzz
+Marvel = [97, 10.94, -4.434, 1.85, 999988]
+Right buzz
+Marvel = [97, 10.94, -4.434, 1.85, 999988]
+Right buzz
+Marvel = [97, 10.94, -4.434, 1.85, 999988]
+Right buzz
+Marvel = [97, 10.94, -4.434, 1.85, 999988]
+Right buzz
+Marvel = [97, 10.94, -4.434, 1.85, 999988]
+Right buzz
+Marvel = [97, 10.94, -4.434, 1.85, 999988]
+Right buzz
+Marvel = [97, 10.94, -4.434, 1.85, 999988]
+Right buzz
+Marvel = [97, 10.94, -4.434, 1.85, 999988]
+Right buzz
+Marvel = [97, 16.22, -4.739, 1.85, 1001501]
+Right buzz
+Marvel = [97, 16.797, -4.739, 1.85, 1001668]
+Right buzz
+Marvel = [97, 16.797, -4.739, 1.85, 1001668]
+Right buzz
+Marvel = [97, 17.37, -4.748, 1.85, 1001835]
+Right buzz
+Marvel = [97, 17.946, -4.747, 1.85, 1001989]
+Right buzz
+Marvel = [97, 18.519, -4.745, 1.85, 1002155]
+Right buzz
+Marvel = [97, 18.519, -4.745, 1.85, 1002155]
+Right buzz
+Marvel = [97, 19.68, -4.721, 1.85, 1002488]
+Right buzz
+Marvel = [97, 20.255, -4.706, 1.85, 1002671]
+Right buzz
+Marvel = [97, 20.833, -4.683, 1.85, 1002838]
+Right buzz
+Marvel = [97, 21.395, -4.652, 1.85, 1003003]
+Right buzz
+Marvel = [97, 21.965, -4.613, 1.85, 1003169]
+Right buzz
+Marvel = [97, 21.965, -4.613, 1.85, 1003169]
+Right buzz
+Marvel = [97, 21.965, -4.613, 1.85, 1003169]
+Right buzz
+Marvel = [97, 21.965, -4.613, 1.85, 1003169]
+Right buzz
+Marvel = [97, 23.642, -4.468, 1.85, 1003681]
+Right buzz
+Marvel = [97, 24.178, -4.434, 1.85, 1003851]
+Right buzz
+Marvel = [97, 24.748, -4.378, 1.85, 1004017]
+Right buzz
+Marvel = [97, 25.331, -4.318, 1.85, 1004168]
+Right buzz
+Marvel = [97, 25.927, -4.24, 1.85, 1004335]
+Right buzz
+Marvel = [97, 25.927, -4.24, 1.85, 1004335]
+Right buzz
+Marvel = [97, 25.927, -4.24, 1.85, 1004335]
+Right buzz
+Marvel = [97, 25.927, -4.24, 1.85, 1004335]
+Right buzz
+Marvel = [97, 27.697, -4.021, 1.85, 1004849]
+Right buzz
+Marvel = [97, 28.271, -3.976, 1.85, 1005016]
+Right buzz
+Marvel = [97, 28.842, -3.937, 1.85, 1005170]
+Right buzz
+Marvel = [97, 29.408, -3.898, 1.85, 1005336]
+Right buzz
+Marvel = [97, 29.408, -3.898, 1.85, 1005336]
+Right buzz
+Marvel = [97, 29.408, -3.898, 1.85, 1005336]
+Right buzz
+Marvel = [97, 29.408, -3.898, 1.85, 1005336]
+Right buzz
+Marvel = [97, 29.408, -3.898, 1.85, 1005336]
+Right buzz
+Marvel = [97, 29.408, -3.898, 1.85, 1005336]
+Right buzz
+Marvel = [97, 29.408, -3.898, 1.85, 1005336]
+Right buzz
+Marvel = [97, 29.408, -3.898, 1.85, 1005336]
+Right buzz
+Marvel = [97, 29.408, -3.898, 1.85, 1005336]
+Right buzz
+Marvel = [97, 29.968, -3.864, 1.85, 1005502]
+Right buzz
+Marvel = [97, 29.968, -3.864, 1.85, 1005502]
+Right buzz
+Marvel = [97, 35.155, -3.914, 1.85, 1007021]
+Right buzz
+Marvel = [97, 35.782, -3.968, 1.85, 1007188]
+Right buzz
+Marvel = [97, 36.407, -4.019, 1.85, 1007338]
+Right buzz
+Marvel = [97, 37.037, -4.051, 1.85, 1007505]
+Right buzz
+Marvel = [97, 37.663, -4.08, 1.85, 1007672]
+Right buzz
+Marvel = [97, 38.25, -4.084, 1.85, 1007852]
+Right buzz
+Marvel = [97, 38.25, -4.084, 1.85, 1007852]
+Right buzz
+Marvel = [97, 38.25, -4.084, 1.85, 1007852]
+Right buzz
+Marvel = [97, 39.415, -4.099, 1.85, 1008186]
+Right buzz
+Marvel = [97, 39.415, -4.099, 1.85, 1008186]
+Right buzz
+Marvel = [97, 40.001, -4.118, 1.85, 1008340]
+Right buzz
+Marvel = [97, 40.726, -4.148, 1.85, 1008672]
+Right buzz
+Marvel = [97, 41.455, -4.18, 1.85, 1008856]
+Right buzz
+Marvel = [97, 42.179, -4.242, 1.85, 1009022]
+Right buzz
+Marvel = [97, 42.179, -4.242, 1.85, 1009022]
+Right buzz
+Marvel = [97, 43.474, -4.321, 1.85, 1009340]
+Right buzz
+Marvel = [97, 44.051, -4.381, 1.85, 1009509]
+Right buzz
+Marvel = [97, 44.611, -4.432, 1.85, 1009676]
+Right buzz
+Marvel = [97, 44.611, -4.432, 1.85, 1009676]
+Right buzz
+Marvel = [97, 45.162, -4.509, 1.85, 1009842]
+Right buzz
+Marvel = [97, 46.205, -4.716, 1.85, 1010187]
+Right buzz
+Marvel = [97, 46.205, -4.716, 1.85, 1010187]
+Right buzz
+Marvel = [97, 46.71, -4.841, 1.85, 1010358]
+Right buzz
+Marvel = [97, 46.71, -4.841, 1.85, 1010508]
+Right buzz
+Marvel = [97, 46.775, -3.862, 1.85, 1010678]
+Right buzz
+Marvel = [97, 47.261, -4.015, 1.85, 1010845]
+Right buzz
+Marvel = [97, 47.261, -4.015, 1.85, 1010845]
+Right buzz
+Marvel = [97, 47.261, -4.015, 1.85, 1010845]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 47.747, -4.174, 1.85, 1011023]
+Right buzz
+Marvel = [97, 66.329, -4.341, 1.85, 1017527]
+Right buzz
+Marvel = [97, 66.596, -4.339, 1.85, 1017693]
+Right buzz
+Marvel = [97, 66.847, -4.342, 1.85, 1017860]
+Right buzz
+Marvel = [97, 66.847, -4.342, 1.85, 1017860]
+Right buzz
+Marvel = [97, 66.847, -4.342, 1.85, 1017860]
+Right buzz
+Marvel = [97, 67.031, -4.342, 1.85, 1018043]
+Right buzz
+Marvel = [97, 67.031, -4.342, 1.85, 1018043]
+Right buzz
+Marvel = [97, 67.031, -4.342, 1.85, 1018043]
+Right buzz
+Marvel = [97, 67.031, -4.342, 1.85, 1018043]
+Right buzz
+Marvel = [97, 67.031, -4.342, 1.85, 1018043]
+Right buzz
+Marvel = [97, 67.087, -4.383, 1.85, 1019042]
+Right buzz
+Marvel = [97, 66.942, -4.403, 1.85, 1019209]
+Right buzz
+Marvel = [97, 66.752, -4.415, 1.85, 1019379]
+Right buzz
+Marvel = [97, 66.575, -4.41, 1.85, 1019529]
+Right buzz
+Marvel = [97, 66.376, -4.386, 1.85, 1019696]
+Right buzz
+Marvel = [97, 66.376, -4.386, 1.85, 1019696]
+Right buzz
+Marvel = [97, 65.945, -4.317, 1.85, 1020043]
+Right buzz
+Marvel = [97, 65.7, -4.287, 1.85, 1020210]
+Right buzz
+Marvel = [97, 65.447, -4.263, 1.85, 1020377]
+Right buzz
+Marvel = [97, 65.18, -4.24, 1.85, 1020530]
+Right buzz
+Marvel = [97, 64.894, -4.217, 1.85, 1020697]
+Right buzz
+Marvel = [97, 64.894, -4.217, 1.85, 1020697]
+Right buzz
+Marvel = [97, 64.594, -4.202, 1.85, 1020864]
+Right buzz
+Marvel = [97, 64.594, -4.202, 1.85, 1020864]
+Right buzz
+Marvel = [97, 63.925, -4.211, 1.85, 1021213]
+Right buzz
+Marvel = [97, 63.565, -4.229, 1.85, 1021379]
+Right buzz
+Marvel = [97, 63.196, -4.259, 1.85, 1021534]
+Right buzz
+Marvel = [97, 62.792, -4.282, 1.85, 1021700]
+Right buzz
+Marvel = [97, 62.356, -4.309, 1.85, 1021866]
+Right buzz
+Marvel = [97, 62.356, -4.309, 1.85, 1021866]
+Right buzz
+Marvel = [97, 61.893, -4.348, 1.85, 1022045]
+Right buzz
+Marvel = [97, 61.893, -4.348, 1.85, 1022045]
+Right buzz
+Marvel = [97, 61.893, -4.348, 1.85, 1022045]
+Right buzz
+Marvel = [97, 61.893, -4.348, 1.85, 1022045]
+Right buzz
+Marvel = [97, 61.893, -4.348, 1.85, 1022045]
+Right buzz
+Marvel = [97, 61.893, -4.348, 1.85, 1022045]
+Right buzz
+Marvel = [97, 61.893, -4.348, 1.85, 1022045]
+Right buzz
+Marvel = [97, 61.893, -4.348, 1.85, 1022045]
+Right buzz
+Marvel = [97, 61.893, -4.348, 1.85, 1022045]
+Right buzz
+Marvel = [97, 57.035, -4.907, 1.85, 1023534]
+Right buzz
+Marvel = [97, 56.451, -4.975, 1.85, 1023701]
+Right buzz
+Marvel = [97, 55.861, -5.034, 1.85, 1023868]
+Right buzz
+Marvel = [97, 55.266, -5.073, 1.85, 1024051]
+Right buzz
+Marvel = [97, 54.667, -5.097, 1.85, 1024216]
+Right buzz
+Marvel = [97, 54.068, -5.103, 1.85, 1024382]
+Right buzz
+Marvel = [97, 54.068, -5.103, 1.85, 1024382]
+Right buzz
+Marvel = [97, 54.068, -5.103, 1.85, 1024382]
+Right buzz
+Marvel = [97, 54.068, -5.103, 1.85, 1024382]
+Right buzz
+Marvel = [97, 54.068, -5.103, 1.85, 1024382]
+Right buzz
+Marvel = [97, 54.068, -5.103, 1.85, 1024382]
+Right buzz
+Marvel = [97, 54.068, -5.103, 1.85, 1024382]
+Right buzz
+Marvel = [97, 54.068, -5.103, 1.85, 1024382]
+Right buzz
+Marvel = [97, 54.068, -5.103, 1.85, 1024382]
+Right buzz
+Marvel = [97, 54.068, -5.103, 1.85, 1024382]
+Right buzz
+Marvel = [97, 49.473, -4.909, 1.85, 1025872]
+Right buzz
+Marvel = [97, 49.473, -4.909, 1.85, 1025872]
+Right buzz
+Marvel = [97, 49.473, -4.909, 1.85, 1026217]
+Right buzz
+Marvel = [97, 46.508, -4.631, 1.85, 1026384]
+Right buzz
+Marvel = [97, 45.887, -4.582, 1.85, 1026537]
+Right buzz
+Marvel = [97, 45.269, -4.536, 1.85, 1026704]
+Right buzz
+Marvel = [97, 45.269, -4.536, 1.85, 1026704]
+Right buzz
+Marvel = [97, 45.269, -4.536, 1.85, 1026704]
+Right buzz
+Marvel = [97, 44.016, -4.456, 1.85, 1027054]
+Right buzz
+Marvel = [97, 43.387, -4.414, 1.85, 1027220]
+Right buzz
+Marvel = [97, 42.755, -4.374, 1.85, 1027374]
+Right buzz
+Marvel = [97, 42.119, -4.337, 1.85, 1027541]
+Right buzz
+Marvel = [97, 41.477, -4.306, 1.85, 1027707]
+Right buzz
+Marvel = [97, 41.477, -4.306, 1.85, 1027707]
+Right buzz
+Marvel = [97, 41.477, -4.306, 1.85, 1027707]
+Right buzz
+Marvel = [97, 41.477, -4.306, 1.85, 1027707]
+Right buzz
+Marvel = [97, 41.477, -4.306, 1.85, 1027707]
+Right buzz
+Marvel = [97, 41.477, -4.306, 1.85, 1027707]
+Right buzz
+Marvel = [97, 41.477, -4.306, 1.85, 1027707]
+Right buzz
+Marvel = [97, 41.477, -4.306, 1.85, 1027707]
+Right buzz
+Marvel = [97, 36.131, -4.091, 1.85, 1029054]
+Right buzz
+Marvel = [97, 35.403, -4.049, 1.85, 1029221]
+Right buzz
+Marvel = [97, 35.403, -4.049, 1.85, 1029221]
+Right buzz
+Marvel = [97, 35.403, -4.049, 1.85, 1029376]
+Right buzz
+Marvel = [97, 33.973, -4.011, 1.85, 1029542]
+Right buzz
+Marvel = [97, 33.289, -4.001, 1.85, 1029708]
+Right buzz
+Marvel = [97, 32.609, -4.007, 1.85, 1029891]
+Right buzz
+Marvel = [97, 32.609, -4.007, 1.85, 1029891]
+Right buzz
+Marvel = [97, 32.609, -4.007, 1.85, 1029891]
+Right buzz
+Marvel = [97, 32.609, -4.007, 1.85, 1029891]
+Right buzz
+Marvel = [97, 32.609, -4.007, 1.85, 1029891]
+Right buzz
+Marvel = [97, 32.609, -4.007, 1.85, 1029891]
+Right buzz
+Marvel = [97, 32.609, -4.007, 1.85, 1029891]
+Right buzz
+Marvel = [97, 32.609, -4.007, 1.85, 1029891]
+Right buzz
+Marvel = [97, 32.609, -4.007, 1.85, 1029891]
+Right buzz
+Marvel = [97, 32.609, -4.007, 1.85, 1029891]
+Right buzz
+Marvel = [97, 32.609, -4.007, 1.85, 1029891]
+Right buzz
+Marvel = [97, 32.609, -4.007, 1.85, 1029891]
+Right buzz
+Marvel = [97, 32.609, -4.007, 1.85, 1029891]
+Right buzz
+Marvel = [97, 32.609, -4.007, 1.85, 1029891]
+Right buzz
+Marvel = [97, 32.609, -4.007, 1.85, 1029891]
+Right buzz
+Marvel = [97, 32.609, -4.007, 1.85, 1029891]
+Right buzz
+Marvel = [97, 32.609, -4.007, 1.85, 1029891]
+Right buzz
+Marvel = [97, 32.609, -4.007, 1.85, 1029891]
+Right buzz
+Marvel = [97, 21.664, -3.659, 1.85, 1032546]
+Right buzz
+Marvel = [97, 21.012, -3.641, 1.85, 1032726]
+Right buzz
+Marvel = [97, 20.358, -3.619, 1.85, 1032895]
+Right buzz
+Marvel = [97, 19.708, -3.594, 1.85, 1033062]
+Right buzz
+Marvel = [97, 19.069, -3.58, 1.85, 1033212]
+Right buzz
+Marvel = [97, 18.439, -3.565, 1.85, 1033379]
+Right buzz
+Marvel = [97, 18.439, -3.565, 1.85, 1033379]
+Right buzz
+Marvel = [97, 18.439, -3.565, 1.85, 1033379]
+Right buzz
+Marvel = [97, 18.439, -3.565, 1.85, 1033379]
+Right buzz
+Marvel = [97, 18.439, -3.565, 1.85, 1033379]
+Right buzz
+Marvel = [97, 18.439, -3.565, 1.85, 1033379]
+Right buzz
+Marvel = [97, 18.439, -3.565, 1.85, 1033379]
+Right buzz
+Marvel = [97, 18.439, -3.565, 1.85, 1033379]
+Right buzz
+Marvel = [97, 18.439, -3.565, 1.85, 1033379]
+Right buzz
+Marvel = [97, 13.833, -3.625, 1.85, 1034730]
+Right buzz
+Marvel = [97, 13.298, -3.647, 1.85, 1034906]
+Right buzz
+Marvel = [97, 12.774, -3.668, 1.85, 1035061]
+Right buzz
+Marvel = [97, 12.774, -3.668, 1.85, 1035061]
+Right buzz
+Marvel = [97, 12.257, -3.685, 1.85, 1035227]
+Right buzz
+Marvel = [97, 12.257, -3.685, 1.85, 1035227]
+Right buzz
+Marvel = [97, 12.257, -3.685, 1.85, 1035227]
+Right buzz
+Marvel = [97, 12.257, -3.685, 1.85, 1035227]
+Right buzz
+Marvel = [97, 10.806, -3.697, 1.85, 1035910]
+Right buzz
+Marvel = [97, 10.806, -3.697, 1.85, 1036061]
+Right buzz
+Marvel = [97, 10.806, -3.697, 1.85, 1036231]
+Right buzz
+Marvel = [97, 8.828, -3.697, 1.85, 1036397]
+Right buzz
+Marvel = [97, 8.392, -3.718, 1.85, 1036575]
+Right buzz
+Marvel = [97, 8.392, -3.718, 1.85, 1036575]
+Right buzz
+Marvel = [97, 8.392, -3.718, 1.85, 1036575]
+Right buzz
+Marvel = [97, 8.392, -3.718, 1.85, 1036575]
+Right buzz
+Marvel = [97, 8.392, -3.718, 1.85, 1036575]
+Right buzz
+Marvel = [97, 8.392, -3.718, 1.85, 1036575]
+Right buzz
+Marvel = [97, 8.392, -3.718, 1.85, 1036575]
+Right buzz
+Marvel = [97, 8.392, -3.718, 1.85, 1036575]
+Right buzz
+Marvel = [97, 8.392, -3.718, 1.85, 1036575]
+Right buzz
+Marvel = [97, 8.392, -3.718, 1.85, 1036575]
+Right buzz
+Marvel = [97, 5.106, -3.988, 1.85, 1038065]
+Right buzz
+Marvel = [97, 4.825, -3.996, 1.85, 1038231]
+Right buzz
+Marvel = [97, 4.555, -4.005, 1.85, 1038397]
+Right buzz
+Marvel = [97, 4.555, -4.005, 1.85, 1038397]
+Right buzz
+Marvel = [97, 4.555, -4.005, 1.85, 1038397]
+Right buzz
+Marvel = [97, 4.291, -4.018, 1.85, 1038580]
+Right buzz
+Marvel = [97, 4.291, -4.018, 1.85, 1038580]
+Right buzz
+Marvel = [97, 4.291, -4.018, 1.85, 1038580]
+Right buzz
+Marvel = [97, 4.291, -4.018, 1.85, 1038580]
+Right buzz
+Marvel = [97, 4.291, -4.018, 1.85, 1038580]
+Right buzz
+Marvel = [97, 4.291, -4.018, 1.85, 1038580]
+Right buzz
+Marvel = [97, 3.072, -4.025, 1.85, 1039578]
+Right buzz
+Marvel = [97, 2.412, -4.023, 1.85, 1040065]
+Right buzz
+Marvel = [97, 2.412, -4.023, 1.85, 1040065]
+Right buzz
+Marvel = [97, 2.253, -3.992, 1.85, 1040232]
+Right buzz
+Marvel = [97, 2.253, -3.992, 1.85, 1040232]
+Right buzz
+Marvel = [97, 2.13, -3.951, 1.85, 1040399]
+Right buzz
+Marvel = [97, 2.045, -3.914, 1.85, 1040582]
+Right buzz
+Marvel = [97, 2.014, -3.885, 1.85, 1040747]
+Right buzz
+Marvel = [97, 2.034, -3.877, 1.85, 1040913]
+Right buzz
+Marvel = [97, 2.099, -3.887, 1.85, 1041069]
+Right buzz
+Marvel = [97, 2.099, -3.887, 1.85, 1041069]
+Right buzz
+Marvel = [97, 2.347, -3.935, 1.85, 1041401]
+Right buzz
+Marvel = [97, 2.347, -3.935, 1.85, 1041401]
+Right buzz
+Marvel = [97, 2.519, -3.955, 1.85, 1041580]
+Right buzz
+Marvel = [97, 2.956, -3.973, 1.85, 1041917]
+Right buzz
+Marvel = [97, 3.233, -3.983, 1.85, 1042068]
+Right buzz
+Marvel = [97, 3.543, -3.997, 1.85, 1042238]
+Right buzz
+Marvel = [97, 3.543, -3.997, 1.85, 1042238]
+Right buzz
+Marvel = [97, 3.543, -3.997, 1.85, 1042238]
+Right buzz
+Marvel = [97, 3.543, -3.997, 1.85, 1042238]
+Right buzz
+Marvel = [97, 3.543, -3.997, 1.85, 1042238]
+Right buzz
+Marvel = [97, 3.543, -3.997, 1.85, 1042238]
+Right buzz
+Marvel = [97, 3.543, -3.997, 1.85, 1042238]
+Right buzz
+Marvel = [97, 3.543, -3.997, 1.85, 1042238]
+Right buzz
+Marvel = [97, 3.543, -3.997, 1.85, 1042238]
+Right buzz
+Marvel = [97, 3.543, -3.997, 1.85, 1042238]
+Right buzz
+Marvel = [97, 3.543, -3.997, 1.85, 1042238]
+Right buzz
+Marvel = [97, 3.543, -3.997, 1.85, 1042238]
+Right buzz
+Marvel = [97, 3.543, -3.997, 1.85, 1042238]
+Right buzz
+Marvel = [97, 3.543, -3.997, 1.85, 1042238]
+Right buzz
+Marvel = [97, 3.543, -3.997, 1.85, 1042238]
+Right buzz
+Marvel = [97, 3.543, -3.997, 1.85, 1042238]
+Right buzz
+Marvel = [97, 3.543, -3.997, 1.85, 1042238]
+Right buzz
+Marvel = [97, 3.543, -3.997, 1.85, 1042238]
+Right buzz
+Marvel = [97, 3.543, -3.997, 1.85, 1042238]
+Right buzz
+Marvel = [97, 3.543, -3.997, 1.85, 1042238]
+Right buzz
+Marvel = [97, 3.543, -3.997, 1.85, 1042238]
+Right buzz
+Marvel = [97, 3.543, -3.997, 1.85, 1042238]
+Right buzz
+Marvel = [97, 3.543, -3.997, 1.85, 1042238]
+Right buzz
+Marvel = [97, 3.543, -3.997, 1.85, 1042238]
+Right buzz
+Marvel = [97, 3.543, -3.997, 1.85, 1042238]
+Right buzz
+Marvel = [97, 3.543, -3.997, 1.85, 1042238]
+Right buzz
+Marvel = [97, 3.543, -3.997, 1.85, 1042238]
+Right buzz
+Marvel = [97, 3.543, -3.997, 1.85, 1042238]
+Right buzz
+Marvel = [97, 15.768, -4.336, 1.85, 1046599]
+Right buzz
+Marvel = [97, 16.269, -4.315, 1.85, 1046765]
+Right buzz
+Marvel = [97, 16.461, -4.506, 1.85, 1046932]
+Right buzz
+Marvel = [97, 16.961, -4.473, 1.85, 1047087]
+Right buzz
+Marvel = [97, 16.961, -4.473, 1.85, 1047087]
+Right buzz
+Marvel = [97, 17.471, -4.429, 1.85, 1047253]
+Right buzz
+Marvel = [97, 17.987, -4.377, 1.85, 1047419]
+Right buzz
+Marvel = [97, 17.987, -4.377, 1.85, 1047419]
+Right buzz
+Marvel = [97, 17.987, -4.377, 1.85, 1047419]
+Right buzz
+Marvel = [97, 17.987, -4.377, 1.85, 1047419]
+Right buzz
+Marvel = [97, 17.987, -4.377, 1.85, 1047419]
+Right buzz
+Marvel = [97, 17.987, -4.377, 1.85, 1047419]
+Right buzz
+Marvel = [97, 17.987, -4.377, 1.85, 1047419]
+Right buzz
+Marvel = [97, 17.987, -4.377, 1.85, 1047419]
+Right buzz
+Marvel = [97, 22.722, -3.964, 1.85, 1048935]
+Right buzz
+Marvel = [97, 23.226, -3.968, 1.85, 1049104]
+Right buzz
+Marvel = [97, 23.729, -3.98, 1.85, 1049255]
+Right buzz
+Marvel = [97, 23.729, -3.98, 1.85, 1049255]
+Right buzz
+Marvel = [97, 23.729, -3.98, 1.85, 1049255]
+Right buzz
+Marvel = [97, 23.729, -3.98, 1.85, 1049255]
+Right buzz
+Marvel = [97, 23.729, -3.98, 1.85, 1049255]
+Right buzz
+Marvel = [97, 23.729, -3.98, 1.85, 1049255]
+Right buzz
+Marvel = [97, 23.729, -3.98, 1.85, 1049255]
+Right buzz
+Marvel = [97, 23.729, -3.98, 1.85, 1049255]
+Right buzz
+Marvel = [97, 23.729, -3.98, 1.85, 1049255]
+Right buzz
+Marvel = [97, 23.729, -3.98, 1.85, 1049255]
+Right buzz
+Marvel = [97, 23.729, -3.98, 1.85, 1049255]
+Right buzz
+Marvel = [97, 23.729, -3.98, 1.85, 1049255]
+Right buzz
+Marvel = [97, 23.729, -3.98, 1.85, 1049255]
+Right buzz
+Marvel = [97, 23.729, -3.98, 1.85, 1049255]
+Right buzz
+Marvel = [97, 23.729, -3.98, 1.85, 1049255]
+Right buzz
+Marvel = [97, 23.729, -3.98, 1.85, 1049255]
+Right buzz
+Marvel = [97, 23.729, -3.98, 1.85, 1049255]
+Right buzz
+Marvel = [97, 23.729, -3.98, 1.85, 1049255]
+Right buzz
+Marvel = [97, 23.729, -3.98, 1.85, 1049255]
+Right buzz
+Marvel = [97, 23.729, -3.98, 1.85, 1049255]
+Right buzz
+Marvel = [97, 23.729, -3.98, 1.85, 1049255]
+Right buzz
+Marvel = [97, 23.729, -3.98, 1.85, 1049255]
+Right buzz
+Marvel = [97, 33.171, -3.248, 1.85, 1052762]
+Right buzz
+Marvel = [97, 33.614, -3.273, 1.85, 1052940]
+Right buzz
+Marvel = [97, 34.077, -3.319, 1.85, 1053106]
+Right buzz
+Marvel = [97, 34.547, -3.342, 1.85, 1053274]
+Right buzz
+Marvel = [97, 34.547, -3.342, 1.85, 1053274]
+Right buzz
+Marvel = [97, 35.029, -3.355, 1.85, 1053427]
+Right buzz
+Marvel = [97, 35.61, -3.394, 1.85, 1053594]
+Right buzz
+Marvel = [97, 35.61, -3.394, 1.85, 1053594]
+Right buzz
+Marvel = [97, 35.61, -3.394, 1.85, 1053594]
+Right buzz
+Marvel = [97, 35.61, -3.394, 1.85, 1053594]
+Right buzz
+Marvel = [97, 35.61, -3.394, 1.85, 1053594]
+Right buzz
+Marvel = [97, 35.61, -3.394, 1.85, 1053594]
+Right buzz
+Marvel = [97, 35.61, -3.394, 1.85, 1053594]
+Right buzz
+Marvel = [97, 35.61, -3.394, 1.85, 1053594]
+Right buzz
+Marvel = [97, 35.61, -3.394, 1.85, 1053594]
+Right buzz
+Marvel = [97, 35.61, -3.394, 1.85, 1053594]
+Right buzz
+Marvel = [97, 35.61, -3.394, 1.85, 1053594]
+Right buzz
+Marvel = [97, 41.333, -3.366, 1.85, 1055432]
+Right buzz
+Marvel = [97, 41.998, -3.474, 1.85, 1055599]
+Right buzz
+Marvel = [97, 41.998, -3.474, 1.85, 1055599]
+Right buzz
+Marvel = [97, 42.649, -3.596, 1.85, 1055766]
+Right buzz
+Marvel = [97, 43.176, -3.703, 1.85, 1055943]
+Right buzz
+Marvel = [97, 43.719, -3.815, 1.85, 1056110]
+Right buzz
+Marvel = [97, 43.719, -3.815, 1.85, 1056110]
+Right buzz
+Marvel = [97, 43.719, -3.815, 1.85, 1056110]
+Right buzz
+Marvel = [97, 43.719, -3.815, 1.85, 1056110]
+Right buzz
+Marvel = [97, 43.719, -3.815, 1.85, 1056110]
+Right buzz
+Marvel = [97, 43.719, -3.815, 1.85, 1056110]
+Right buzz
+Marvel = [97, 43.719, -3.815, 1.85, 1056110]
+Right buzz
+Marvel = [97, 43.719, -3.815, 1.85, 1056110]
+Right buzz
+Marvel = [97, 43.719, -3.815, 1.85, 1056110]
+Right buzz
+Marvel = [97, 43.719, -3.815, 1.85, 1056110]
+Right buzz
+Marvel = [97, 43.719, -3.815, 1.85, 1056110]
+Right buzz
+Marvel = [97, 43.719, -3.815, 1.85, 1056110]
+Right buzz
+Marvel = [97, 43.719, -3.815, 1.85, 1056110]
+Right buzz
+Marvel = [97, 43.719, -3.815, 1.85, 1056110]
+Right buzz
+Marvel = [97, 43.719, -3.815, 1.85, 1056110]
+Right buzz
+Marvel = [97, 43.719, -3.815, 1.85, 1056110]
+Right buzz
+Marvel = [97, 43.719, -3.815, 1.85, 1056110]
+Right buzz
+Marvel = [97, 51.979, -4.817, 1.85, 1058770]
+Right buzz
+Marvel = [97, 51.979, -4.817, 1.85, 1058770]
+Right buzz
+Marvel = [97, 52.499, -4.792, 1.85, 1058936]
+Right buzz
+Marvel = [97, 52.499, -4.792, 1.85, 1059115]
+Right buzz
+Marvel = [97, 52.499, -4.792, 1.85, 1059115]
+Right buzz
+Marvel = [97, 52.499, -4.792, 1.85, 1059285]
+Right buzz
+Marvel = [97, 52.499, -4.792, 1.85, 1059285]
+Right buzz
+Marvel = [97, 55.023, -3.801, 1.85, 1059602]
+Right buzz
+Marvel = [97, 55.023, -3.801, 1.85, 1059602]
+Right buzz
+Marvel = [97, 55.89, -4.473, 1.85, 1060116]
+Right buzz
+Marvel = [97, 56.358, -4.422, 1.85, 1060283]
+Right buzz
+Marvel = [97, 56.813, -4.371, 1.85, 1060449]
+Right buzz
+Marvel = [97, 57.25, -4.329, 1.85, 1060604]
+Right buzz
+Marvel = [97, 57.672, -4.294, 1.85, 1060769]
+Right buzz
+Marvel = [97, 57.672, -4.294, 1.85, 1060769]
+Right buzz
+Marvel = [97, 57.672, -4.294, 1.85, 1060769]
+Right buzz
+Marvel = [97, 57.672, -4.294, 1.85, 1060769]
+Right buzz
+Marvel = [97, 57.672, -4.294, 1.85, 1060769]
+Right buzz
+Marvel = [97, 57.672, -4.294, 1.85, 1060769]
+Right buzz
+Marvel = [97, 57.672, -4.294, 1.85, 1060769]
+Right buzz
+Marvel = [97, 57.672, -4.294, 1.85, 1060769]
+Right buzz
+Marvel = [97, 57.672, -4.294, 1.85, 1060769]
+Right buzz
+Marvel = [97, 57.672, -4.294, 1.85, 1060769]
+Right buzz
+Marvel = [97, 57.672, -4.294, 1.85, 1060769]
+Right buzz
+Marvel = [97, 57.672, -4.294, 1.85, 1060769]
+Right buzz
+Marvel = [97, 57.672, -4.294, 1.85, 1060769]
+Right buzz
+Marvel = [97, 57.672, -4.294, 1.85, 1060769]
+Right buzz
+Marvel = [97, 57.672, -4.294, 1.85, 1060769]
+Right buzz
+Marvel = [97, 57.672, -4.294, 1.85, 1060769]
+Right buzz
+Marvel = [97, 57.672, -4.294, 1.85, 1060769]
+Right buzz
+Marvel = [97, 57.672, -4.294, 1.85, 1060769]
+Right buzz
+Marvel = [97, 57.672, -4.294, 1.85, 1060769]
+Right buzz
+Marvel = [97, 57.672, -4.294, 1.85, 1060769]
+Right buzz
+Marvel = [97, 57.672, -4.294, 1.85, 1060769]
+Right buzz
+Marvel = [97, 57.672, -4.294, 1.85, 1060769]
+Right buzz
+Marvel = [97, 57.672, -4.294, 1.85, 1060769]
+Right buzz
+Marvel = [97, 57.672, -4.294, 1.85, 1060769]
+Right buzz
+Marvel = [97, 57.672, -4.294, 1.85, 1060769]
+Right buzz
+Marvel = [97, 60.911, -4.655, 1.85, 1064611]
+Right buzz
+Marvel = [97, 60.708, -4.676, 1.85, 1064778]
+Right buzz
+Marvel = [97, 60.495, -4.685, 1.85, 1064944]
+Right buzz
+Marvel = [97, 60.275, -4.691, 1.85, 1065122]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 60.044, -4.703, 1.85, 1065289]
+Right buzz
+Marvel = [97, 46.686, -4.971, 1.85, 1070298]
+Right buzz
+Marvel = [97, 45.506, -4.9, 1.85, 1070464]
+Right buzz
+Marvel = [97, 45.506, -4.9, 1.85, 1070464]
+Right buzz
+Marvel = [97, 44.918, -4.872, 1.85, 1070619]
+Right buzz
+Marvel = [97, 44.34, -4.842, 1.85, 1070785]
+Right buzz
+Marvel = [97, 44.34, -4.842, 1.85, 1070785]
+Right buzz
+Marvel = [97, 43.197, -4.788, 1.85, 1071131]
+Right buzz
+Marvel = [97, 42.633, -4.764, 1.85, 1071297]
+Right buzz
+Marvel = [97, 42.034, -4.667, 1.85, 1071450]
+Right buzz
+Marvel = [97, 42.034, -4.667, 1.85, 1071450]
+Right buzz
+Marvel = [97, 41.467, -4.651, 1.85, 1071617]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 40.911, -4.635, 1.85, 1071785]
+Right buzz
+Marvel = [97, 21.734, -3.647, 1.85, 1077640]
+Right buzz
+Marvel = [97, 20.701, -3.596, 1.85, 1077985]
+Right buzz
+Marvel = [97, 20.203, -3.577, 1.85, 1078152]
+Right buzz
+Marvel = [97, 19.707, -3.568, 1.85, 1078305]
+Right buzz
+Marvel = [97, 19.218, -3.565, 1.85, 1078472]
+Right buzz
+Marvel = [97, 19.218, -3.565, 1.85, 1078472]
+Right buzz
+Marvel = [97, 18.772, -3.576, 1.85, 1078638]
+Right buzz
+Marvel = [97, 18.772, -3.576, 1.85, 1078638]
+Right buzz
+Marvel = [97, 18.772, -3.576, 1.85, 1078638]
+Right buzz
+Marvel = [97, 18.772, -3.576, 1.85, 1078638]
+Right buzz
+Marvel = [97, 18.772, -3.576, 1.85, 1078638]
+Right buzz
+Marvel = [97, 18.772, -3.576, 1.85, 1078638]
+Right buzz
+Marvel = [97, 18.772, -3.576, 1.85, 1078638]
+Right buzz
+Marvel = [97, 18.772, -3.576, 1.85, 1078638]
+Right buzz
+Marvel = [97, 18.772, -3.576, 1.85, 1078638]
+Right buzz
+Marvel = [97, 18.772, -3.576, 1.85, 1078638]
+Right buzz
+Marvel = [97, 18.772, -3.576, 1.85, 1078638]
+Right buzz
+Marvel = [97, 18.772, -3.576, 1.85, 1078638]
+Right buzz
+Marvel = [97, 18.772, -3.576, 1.85, 1078638]
+Right buzz
+Marvel = [97, 18.772, -3.576, 1.85, 1078638]
+Right buzz
+Marvel = [97, 18.772, -3.576, 1.85, 1078638]
+Right buzz
+Marvel = [97, 13.608, -3.894, 1.85, 1080990]
+Right buzz
+Marvel = [97, 13.36, -3.908, 1.85, 1081143]
+Right buzz
+Marvel = [97, 13.118, -3.918, 1.85, 1081310]
+Right buzz
+Marvel = [97, 13.118, -3.918, 1.85, 1081310]
+Right buzz
+Marvel = [97, 12.693, -3.958, 1.85, 1081659]
+Right buzz
+Marvel = [97, 12.693, -3.958, 1.85, 1081659]
+Right buzz
+Marvel = [97, 12.693, -3.958, 1.85, 1081659]
+Right buzz
+Marvel = [97, 12.469, -3.975, 1.85, 1081825]
+Right buzz
+Marvel = [97, 12.052, -4.006, 1.85, 1082147]
+Right buzz
+Marvel = [97, 11.784, -3.999, 1.85, 1082312]
+Right buzz
+Marvel = [97, 11.565, -4.002, 1.85, 1082478]
+Right buzz
+Marvel = [97, 11.565, -4.002, 1.85, 1082478]
+Right buzz
+Marvel = [97, 11.565, -4.002, 1.85, 1082478]
+Right buzz
+Marvel = [97, 11.565, -4.002, 1.85, 1082478]
+Right buzz
+Marvel = [97, 11.565, -4.002, 1.85, 1082478]
+Right buzz
+Marvel = [97, 11.565, -4.002, 1.85, 1082478]
+Right buzz
+Marvel = [97, 11.565, -4.002, 1.85, 1082478]
+Right buzz
+Marvel = [97, 11.565, -4.002, 1.85, 1082478]
+Right buzz
+Marvel = [97, 11.565, -4.002, 1.85, 1082478]
+Right buzz
+Marvel = [97, 11.565, -4.002, 1.85, 1082478]
+Right buzz
+Marvel = [97, 9.558, -4.09, 1.85, 1083994]
+Right buzz
+Marvel = [97, 9.377, -4.132, 1.85, 1084148]
+Right buzz
+Marvel = [97, 9.196, -4.172, 1.85, 1084315]
+Right buzz
+Marvel = [97, 9.018, -4.214, 1.85, 1084482]
+Right buzz
+Marvel = [97, 8.844, -4.26, 1.85, 1084663]
+Right buzz
+Marvel = [97, 8.844, -4.26, 1.85, 1084663]
+Right buzz
+Marvel = [97, 8.844, -4.26, 1.85, 1084663]
+Right buzz
+Marvel = [97, 8.844, -4.26, 1.85, 1084663]
+Right buzz
+Marvel = [97, 8.844, -4.26, 1.85, 1084663]
+Right buzz
+Marvel = [97, 8.844, -4.26, 1.85, 1084663]
+Right buzz
+Marvel = [97, 8.844, -4.26, 1.85, 1084663]
+Right buzz
+Marvel = [97, 8.844, -4.26, 1.85, 1084663]
+Right buzz
+Marvel = [97, 8.844, -4.26, 1.85, 1084663]
+Right buzz
+Marvel = [97, 8.844, -4.26, 1.85, 1084663]
+Right buzz
+Marvel = [97, 8.844, -4.26, 1.85, 1084663]
+Right buzz
+Marvel = [97, 8.844, -4.26, 1.85, 1084663]
+Right buzz
+Marvel = [97, 8.844, -4.26, 1.85, 1084663]
+Right buzz
+Marvel = [97, 8.971, -4.443, 1.85, 1086665]
+Right buzz
+Marvel = [97, 9.158, -4.409, 1.85, 1086832]
+Right buzz
+Marvel = [97, 9.357, -4.373, 1.85, 1087002]
+Right buzz
+Marvel = [97, 9.357, -4.373, 1.85, 1087002]
+Right buzz
+Marvel = [97, 9.811, -4.283, 1.85, 1087319]
+Right buzz
+Marvel = [97, 9.811, -4.283, 1.85, 1087319]
+Right buzz
+Marvel = [97, 9.811, -4.283, 1.85, 1087319]
+Right buzz
+Marvel = [97, 9.811, -4.283, 1.85, 1087319]
+Right buzz
+Marvel = [97, 9.811, -4.283, 1.85, 1087319]
+Right buzz
+Marvel = [97, 9.811, -4.283, 1.85, 1087319]
+Right buzz
+Marvel = [97, 9.811, -4.283, 1.85, 1087319]
+Right buzz
+Marvel = [97, 9.811, -4.283, 1.85, 1087319]
+Right buzz
+Marvel = [97, 9.811, -4.283, 1.85, 1087319]
+Right buzz
+Marvel = [97, 9.811, -4.283, 1.85, 1087319]
+Right buzz
+Marvel = [97, 9.811, -4.283, 1.85, 1087319]
+Right buzz
+Marvel = [97, 9.811, -4.283, 1.85, 1087319]
+Right buzz
+Marvel = [97, 9.811, -4.283, 1.85, 1087319]
+Right buzz
+Marvel = [97, 9.811, -4.283, 1.85, 1087319]
+Right buzz
+Marvel = [97, 9.811, -4.283, 1.85, 1087319]
+Right buzz
+Marvel = [97, 9.811, -4.283, 1.85, 1087319]
+Right buzz
+Marvel = [97, 14.961, -3.835, 1.85, 1089670]
+Right buzz
+Marvel = [97, 14.961, -3.835, 1.85, 1089670]
+Right buzz
+Marvel = [97, 14.961, -3.835, 1.85, 1089670]
+Right buzz
+Marvel = [97, 15.816, -3.836, 1.85, 1090007]
+Right buzz
+Marvel = [97, 16.351, -3.838, 1.85, 1090324]
+Right buzz
+Marvel = [97, 16.887, -3.84, 1.85, 1090494]
+Right buzz
+Marvel = [97, 17.416, -3.817, 1.85, 1090672]
+Right buzz
+Marvel = [97, 17.974, -3.811, 1.85, 1090838]
+Right buzz
+Marvel = [97, 17.974, -3.811, 1.85, 1090838]
+Right buzz
+Marvel = [97, 17.974, -3.811, 1.85, 1090838]
+Right buzz
+Marvel = [97, 17.974, -3.811, 1.85, 1090838]
+Right buzz
+Marvel = [97, 17.974, -3.811, 1.85, 1090838]
+Right buzz
+Marvel = [97, 17.974, -3.811, 1.85, 1090838]
+Right buzz
+Marvel = [97, 17.974, -3.811, 1.85, 1090838]
+Right buzz
+Marvel = [97, 17.974, -3.811, 1.85, 1090838]
+Right buzz
+Marvel = [97, 17.974, -3.811, 1.85, 1090838]
+Right buzz
+Marvel = [97, 21.569, -3.629, 1.85, 1092174]
+Right buzz
+Marvel = [97, 21.569, -3.629, 1.85, 1092174]
+Right buzz
+Marvel = [97, 21.569, -3.629, 1.85, 1092174]
+Right buzz
+Marvel = [97, 21.569, -3.629, 1.85, 1092174]
+Right buzz
+Marvel = [97, 21.569, -3.629, 1.85, 1092174]
+Right buzz
+Marvel = [97, 21.569, -3.629, 1.85, 1092174]
+Right buzz
+Marvel = [97, 21.569, -3.629, 1.85, 1092174]
+Right buzz
+Marvel = [97, 21.569, -3.629, 1.85, 1092174]
+Right buzz
+Marvel = [97, 21.569, -3.629, 1.85, 1092174]
+Right buzz
+Marvel = [97, 21.569, -3.629, 1.85, 1092174]
+Right buzz
+Marvel = [97, 25.505, -3.534, 1.85, 1093665]
+Right buzz
+Marvel = [97, 25.505, -3.534, 1.85, 1093843]
+Right buzz
+Marvel = [97, 26.151, -2.615, 1.85, 1094011]
+Right buzz
+Marvel = [97, 26.521, -2.593, 1.85, 1094180]
+Right buzz
+Marvel = [97, 26.871, -2.571, 1.85, 1094331]
+Right buzz
+Marvel = [97, 26.871, -2.571, 1.85, 1094331]
+Right buzz
+Marvel = [97, 26.871, -2.571, 1.85, 1094498]
+Right buzz
+Marvel = [97, 26.871, -2.571, 1.85, 1094498]
+Right buzz
+Marvel = [97, 28.078, -3.295, 1.85, 1094846]
+Right buzz
+Marvel = [97, 28.36, -3.284, 1.85, 1095012]
+Right buzz
+Marvel = [97, 28.558, -3.329, 1.85, 1095179]
+Right buzz
+Marvel = [97, 28.766, -3.314, 1.85, 1095333]
+Right buzz
+Marvel = [97, 28.958, -3.311, 1.85, 1095499]
+Right buzz
+Marvel = [97, 28.958, -3.311, 1.85, 1095499]
+Right buzz
+Marvel = [97, 29.148, -3.312, 1.85, 1095666]
+Right buzz
+Marvel = [97, 29.148, -3.312, 1.85, 1095666]
+Right buzz
+Marvel = [97, 29.148, -3.312, 1.85, 1095666]
+Right buzz
+Marvel = [97, 29.718, -3.392, 1.85, 1096182]
+Right buzz
+Marvel = [97, 29.875, -3.425, 1.85, 1096337]
+Right buzz
+Marvel = [97, 30.022, -3.442, 1.85, 1096504]
+Right buzz
+Marvel = [97, 30.17, -3.431, 1.85, 1096670]
+Right buzz
+Marvel = [97, 30.319, -3.407, 1.85, 1096848]
+Right buzz
+Marvel = [97, 30.319, -3.407, 1.85, 1096848]
+Right buzz
+Marvel = [97, 30.319, -3.407, 1.85, 1096848]
+Right buzz
+Marvel = [97, 30.319, -3.407, 1.85, 1096848]
+Right buzz
+Marvel = [97, 30.319, -3.407, 1.85, 1096848]
+Right buzz
+Marvel = [97, 30.683, -3.209, 1.85, 1097502]
+Right buzz
+Marvel = [97, 30.687, -3.12, 1.85, 1097672]
+Right buzz
+Marvel = [97, 30.689, -3.038, 1.85, 1097850]
+Right buzz
+Marvel = [97, 30.687, -2.935, 1.85, 1098016]
+Right buzz
+Marvel = [97, 30.687, -2.935, 1.85, 1098016]
+Right buzz
+Marvel = [97, 30.687, -2.935, 1.85, 1098016]
+Right buzz
+Marvel = [97, 30.687, -2.935, 1.85, 1098016]
+Right buzz
+Marvel = [97, 30.616, -2.358, 1.85, 1098671]
+Right buzz
+Marvel = [97, 30.616, -2.358, 1.85, 1098671]
+Right buzz
+Marvel = [97, 30.604, -2.229, 1.85, 1098854]
+Right buzz
+Marvel = [97, 30.598, -2.012, 1.85, 1099186]
+Right buzz
+Marvel = [97, 30.598, -2.012, 1.85, 1099186]
+Right buzz
+Marvel = [97, 30.598, -2.012, 1.85, 1099186]
+Right buzz
+Marvel = [97, 30.598, -2.012, 1.85, 1099186]
+Right buzz
+Marvel = [97, 30.598, -2.012, 1.85, 1099186]
+Right buzz
+Marvel = [97, 30.598, -2.012, 1.85, 1099186]
+Right buzz
+Marvel = [97, 30.598, -2.012, 1.85, 1099186]
+Right buzz
+Marvel = [97, 30.598, -2.012, 1.85, 1099186]
+Right buzz
+Marvel = [97, 30.598, -2.012, 1.85, 1099186]
+Right buzz
+Marvel = [97, 30.598, -2.012, 1.85, 1099186]
+Right buzz
+Marvel = [97, 30.247, -0.714, 1.85, 1100677]
+Marvel = [97, 30.247, -0.714, 1.85, 1100677]
+Marvel = [97, 30.176, -0.599, 1.85, 1100855]
+Left buzz
+Marvel = [97, 30.106, -0.445, 1.85, 1101022]
+Left buzz
+Marvel = [97, 30.167, -0.445, 1.85, 1101188]
+Left buzz
+Marvel = [97, 30.093, -0.286, 1.85, 1101342]
+Left buzz
+Marvel = [97, 30.046, -0.183, 1.85, 1101509]
+Left buzz
+Marvel = [97, 30.046, -0.183, 1.85, 1101509]
+Left buzz
+Marvel = [97, 30.046, -0.183, 1.85, 1101509]
+Left buzz
+Marvel = [97, 29.852, -0.128, 1.85, 1102024]
+Left buzz
+Marvel = [97, 29.768, -0.185, 1.85, 1102191]
+Left buzz
+Marvel = [97, 29.694, -0.286, 1.85, 1102346]
+Left buzz
+Marvel = [97, 29.612, -0.354, 1.85, 1102511]
+Left buzz
+Marvel = [97, 29.612, -0.354, 1.85, 1102511]
+Left buzz
+Marvel = [97, 29.612, -0.354, 1.85, 1102678]
+Left buzz
+Marvel = [97, 29.612, -0.354, 1.85, 1102678]
+Left buzz
+Marvel = [97, 29.612, -0.354, 1.85, 1102678]
+Right buzz
+Marvel = [97, 28.975, -2.106, 1.85, 1103194]
+Marvel = [97, 29.16, -1.427, 1.85, 1103349]
+Marvel = [97, 29.16, -1.427, 1.85, 1103515]
+Marvel = [97, 29.4, -0.702, 1.85, 1103681]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Marvel = [97, 29.392, -0.709, 1.85, 1103860]
+Right buzz
+Marvel = [97, 28.575, -3.375, 1.85, 1107523]
+Marvel = [97, 29.095, -1.662, 1.85, 1109203]
+Marvel = [97, 29.092, -1.691, 1.85, 1109357]
+Marvel = [97, 29.221, -1.149, 1.85, 1109524]
+Marvel = [97, 29.219, -1.16, 1.85, 1109690]
+Marvel = [97, 29.219, -1.16, 1.85, 1109690]
+Left buzz
+Marvel = [97, 29.395, -0.501, 1.85, 1109873]
+Marvel = [97, 29.397, -0.51, 1.85, 1110039]
+Marvel = [97, 29.397, -0.51, 1.85, 1110039]
+Marvel = [97, 29.397, -0.51, 1.85, 1110039]
+Marvel = [97, 29.397, -0.51, 1.85, 1110039]
+Marvel = [97, 29.219, -1.343, 1.85, 1110527]
+Marvel = [97, 29.25, -1.484, 1.85, 1110693]
+Marvel = [97, 29.467, -0.883, 1.85, 1110873]
+Marvel = [97, 29.46, -0.949, 1.85, 1111043]
+Marvel = [97, 29.415, -0.948, 1.85, 1111209]
+Marvel = [97, 29.415, -0.948, 1.85, 1111209]
+Marvel = [97, 29.415, -0.948, 1.85, 1111209]
+Marvel = [97, 29.415, -0.948, 1.85, 1111209]
+Marvel = [97, 29.415, -0.948, 1.85, 1111209]
+Marvel = [97, 29.415, -0.948, 1.85, 1111209]
+Marvel = [97, 29.415, -0.948, 1.85, 1111209]
+Marvel = [97, 29.415, -0.948, 1.85, 1111209]
+Marvel = [97, 29.415, -0.948, 1.85, 1111209]
+Marvel = [97, 29.415, -0.948, 1.85, 1111209]
+Marvel = [97, 29.415, -0.948, 1.85, 1111209]
+Marvel = [97, 29.415, -0.948, 1.85, 1111209]
+Marvel = [97, 29.415, -0.948, 1.85, 1111209]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]
+Left buzz
+Marvel = [0, 0, 0, 0, 0]

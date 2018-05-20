@@ -17,8 +17,9 @@ from GPSObject import Track
 
 
 
-def PMWFunction(PWMQueue, inQueue, outQueue):
+def PMWFunction(PWMQueue):
     GPIO.setmode(GPIO.BOARD)
+
     #pins 12 and 32 are the only pwms
     GPIO.setup(12, GPIO.OUT)
     pwm1= GPIO.PWM(12, 100)
@@ -41,13 +42,10 @@ def PMWFunction(PWMQueue, inQueue, outQueue):
     #threshold = 20; #can't feel anything under 20
     
     currentPair = PWMQueue.get()
-    outQueue[1] += 1
     while currentPair.left != -1:
         pwm1.ChangeDutyCycle(currentPair.left)
         pwm2.ChangeDutyCycle(currentPair.right)
         currentPair = PWMQueue.get()
-        outQueue[1] += 1
-        print("NUMBER OF OBJECTS IN THE PWM QUEUE: " + str(inQueue[1] - outQueue[1]))
         
     
     
@@ -56,22 +54,27 @@ def PMWFunction(PWMQueue, inQueue, outQueue):
     GPIO.cleanup()
     print("ended PWMQueue thread")
 
-def marvelThread(status, GPSQueue, inQueue):
+def marvelThread(status, GPSQueue):
     hedge = MarvelmindHedge(tty = "/dev/ttyACM0", adr=10, debug=False) # create MarvelmindHedge thread
     hedge.start() # start thread
     while status[0]:
             sleep(.1)            
             #Number of beacon, X, Y, Z, Time
             GPSQueue.put(GPSCoord(hedge.position()))
-            inQueue[0] += 1
             print ("The Marvel Thread: ")
             hedge.print_position()
+            t=hedge.position()
+
+            f = open('dataouts.txt','a')
+            f.write('Marvel = {}'.format(t)+'\n')
+            f.close()
+            
     if not status[0]:
         GPSQueue.put(GPSCoord([-1, -1, -1, -1, -1]))
         print("Ended Marvel Queue")
     
             
-def read(c, marvel):
+def read(c, marvel, Reverse):
     #receive for a while
     while(True):
         #print statement for debugging
@@ -79,13 +82,17 @@ def read(c, marvel):
         #receive data (blocking, so thread can yeild if there is nothing here)
         data = c.recv(1024)
         #print for debugging
+        print("+++++++++++++++++++++++++++++++++++++++++++++++++++++")
         print(data)
+        print("+++++++++++++++++++++++++++++++++++++++++++++++++++++")
         #If the data was the quit message, break out and signal to marvel to end
         if(data == "Quit"):
             marvel[0] = False
             print("Ended the read thread")
             break
-
+        if data == "Reverse":
+            Reverse[0] = not Reverse[0]
+    
 def send(c, SendQueue):
     #Print for the debugging 
     print("s")
@@ -109,9 +116,9 @@ def send(c, SendQueue):
         except socket.error: #catch the error, and just print it happened
             print("Couldn't send anything")
             
-def update(GPSQueue, SendQueue, PWMQueue, inQueue, outQueue):
+def update(GPSQueue, SendQueue, PWMQueue, Reverse):
     #Make a track object, and update it (it takes care of updating itself)
-    track = Track(1, GPSQueue, SendQueue, PWMQueue, inQueue, outQueue)
+    track = Track(1, GPSQueue, SendQueue, PWMQueue, Reverse)
     track.update()
     print("ended the update thread")
 
@@ -142,26 +149,24 @@ def main():
         
         c, addr = mysocket.accept()
         
-        #Number of things in the queue [gps, pwm]
-        inQueue = [0,0]
-        #Number of things out of the queue [gps, pwm]
-        outQueue = [0,0]
+        
         print("made it here")
         # A list, that is the condition for the coordinates loop (modified by receive, read by marvel)
         marvelOK = [True]
-
+        Reverse = [False]
         #receiving thread
-        r = Thread(target = read, args = (c, marvelOK,))
+        r = Thread(target = read, args = (c, marvelOK, Reverse,))
         #sending thread
         s = Thread(target = send, args = (c, SendQueue,))
         #marvel thread
-        m = Thread(target = marvelThread, args = (marvelOK, GPSQueue, inQueue,))
+        m = Thread(target = marvelThread, args = (marvelOK, GPSQueue,))
         #Update thread
-        u = Thread(target = update, args = (GPSQueue, SendQueue, PWMQueue, inQueue, outQueue,))
+        u = Thread(target = update, args = (GPSQueue, SendQueue, PWMQueue, Reverse,))
         #PWM Queue
-        p = Thread(target = PMWFunction, args = (PWMQueue, inQueue, outQueue,))
+        p = Thread(target = PMWFunction, args = (PWMQueue,))
         
         #Start all the threads
+        
         r.start()
         m.start()
         u.start()
@@ -177,5 +182,7 @@ def main():
         c.close()
         #After this it once again starts the server, waiting for a new connection (we're in a while true)
 
+
 if __name__ == '__main__':
     main()
+
